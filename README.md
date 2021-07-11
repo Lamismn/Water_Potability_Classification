@@ -63,6 +63,10 @@ Water turbidity is another indicator of the dissolved solids in water. Ouur data
 
 ![Fig10](https://user-images.githubusercontent.com/79733383/125204783-f1612700-e24c-11eb-8660-9cf1753b3f50.png)
 
+## Purpose & Initial plan:
+Our main purpose from this study is to develop & train a machine learning model tha can determine weather a water sample is potable or not based on the readings obtained. We also want to study the impact each of the metrics have on the potability of the water, & which metrics have the highest & the lowest impacts on water potability. 
+
+To obtain this, our plan is to start with a linear regression model (Supervised machine learning), since the data output is a binary classification of potable vs unpottable.
 
 
 
