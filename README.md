@@ -31,5 +31,15 @@ Hardness value is an indication of the amount of dissolved calcium & magnesium i
 
 As shown in the graph, the distribution has a relatively high spike in the middle, but is almost uniform apart from this. Also the number of valid entries equals the number of collected samples, which means no values need to be dropped based on hardness level.
 
+3. Solids:
+The Solids column in the datase indicates the total dissolved solids in the water sample. also known as the TDS. The following hsitogram shows the readings distribution:
+
+![Fig4](https://user-images.githubusercontent.com/79733383/125203926-c543a700-e248-11eb-8f61-ce03e4876d67.png)
+
+The chart shows that the values are slightly skewed to the left, which means we will need to study the values more before our analysis. The column has 3276 valid values, which means that no cells need to be dropped.
+
+
+
+
 
 
