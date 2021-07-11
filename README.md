@@ -38,6 +38,15 @@ The Solids column in the datase indicates the total dissolved solids in the wate
 
 The chart shows that the values are slightly skewed to the left, which means we will need to study the values more before our analysis. The column has 3276 valid values, which means that no cells need to be dropped.
 
+4. Chloramines, Sulphates, Organoc carbons & Trihalomethanes:
+
+These columns show the presence of their titular salts & chemicals in the water samples. Their distributions can be shown in the following figures:
+![Fig5](https://user-images.githubusercontent.com/79733383/125204370-ec02dd00-e24a-11eb-9ba6-8538e1760033.png)
+![Fig6](https://user-images.githubusercontent.com/79733383/125204374-f1602780-e24a-11eb-99c9-c4e0b66f644b.png)
+![Fig7](https://user-images.githubusercontent.com/79733383/125204378-f91fcc00-e24a-11eb-8de9-a505386df74c.png)
+![Fig8](https://user-images.githubusercontent.com/79733383/125204383-fde48000-e24a-11eb-93ec-da0114951c43.png)
+
+Only the Sulfate & the Trihalomethanes columns have missing cells, they have 2495 & 3114 valid readings respectively.
 
 
 
