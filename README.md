@@ -70,11 +70,5 @@ To obtain this, our plan is to start with a linear regression model (Supervised 
 
 ## Communications protocols:
 
-As a team we use different tools to communicate together & to ensure efficiency. We meet during the normal class hours to assign tasks between us, then we have an additional zoom meeting where we can discuss the progress & if anyone needs help with their task before submission.
-We also have a Slack group that allows us to stay in touch in between classes & meetings.
-
-For project files & work, we have a shared github repository, where every member has a separate branch to commit their work & progress to before merging it to the main branch.
-
-For our first segment, we chose to divide the rubric's requirements between us, one person handled data pre-processing, two people handled the initial machine learning model, & one person handled the presentation & the readme.md file.
 
 
