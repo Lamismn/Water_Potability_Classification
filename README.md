@@ -64,17 +64,11 @@ Water turbidity is another indicator of the dissolved solids in water. Ouur data
 ![Fig10](https://user-images.githubusercontent.com/79733383/125204783-f1612700-e24c-11eb-8660-9cf1753b3f50.png)
 
 ## Purpose & Initial plan:
-Our main purpose from this study is to develop & train a machine learning model tha can determine weather a water sample is potable or not based on the readings obtained. We also want to study the impact each of the metrics have on the potability of the water, & which metrics have the highest & the lowest impacts on water potability. 
+Our main purpose from this study is to develop & train a machine learning model that can determine weather a water sample is potable or not based on the readings obtained. We also want to study the impact each of the metrics have on the potability of the water, & which metrics have the highest & the lowest impacts on water potability. 
 
 To obtain this, our plan is to start with a linear regression model (Supervised machine learning), since the data output is a binary classification of potable vs unpottable.
 
 ## Communications protocols:
 
-As a team we use different tools to communicate together & to ensure efficiency. We meet during the normal class hours to assign tasks between us, then we have an additional zoom meeting where we can discuss the progress & if anyone needs help with their task before submission.
-We also have a Slack group that allows us to stay in touch in between classes & meetings.
-
-For project files & work, we have a shared github repository, where every member has a separate branch to commit their work & progress to before merging it to the main branch.
-
-For our first segment, we chose to divide the rubric's requirements between us, one person handled data pre-processing, two people handled the initial machine learning model, & one person handled the presentation & the readme.md file.
 
 
