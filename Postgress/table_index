@@ -1,0 +1,21 @@
+name of table - description of what is contained
+
+area - station code and location data
+contents - station code and purely numeric data
+grade - station code and grade
+potability - station code and potability
+
+percent_pot_state - region, number of station total, number of stations found potable water, percentage of state that is potable
+
+pot_stations_per_state - number of stations found potable water in each state
+
+station_per_state - stations per state
+
+total_water_data - station code, location, statistics, grade and potability
+water_data - station code, location, statistics
+
+water_data_graded - station code, statistics, grade
+water_data_graded_w_states - station code, location, statistics, grade
+
+water_data_potable - station code, statistics, potability
+water_data_potable_w_states - station code, location, statistics, potability
