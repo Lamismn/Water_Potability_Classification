@@ -1,0 +1,71 @@
+water_data
+-----
+station_code PK int
+areas varchar
+region varchar
+temperature float
+DO float
+pH float
+conductivity float
+nitrate_nitrite float
+coli float
+total_coli float
+
+grade
+-----
+station_code FK >- water_data.station_code int
+grade varchar
+
+potable
+-----
+station_code FK >- water_data.station_code int
+potable int FK >- total_water_data.potable
+
+total_water_data
+-----
+station_code PK int FK >- water_data.station_code
+areas varchar FK >- water_data.areas
+region varchar FK >- water_data.region
+temperature float FK >- water_data.temperature
+DO float FK >- water_data.DO
+pH float FK >- water_data.pH
+conductivity float FK >- water_data.conductivity
+nitrate_nitrite float FK >- water_data.nitrate_nitrite
+coli float FK >- water_data.coli
+total_coli float FK >- water_data.total_coli
+grade varchar FK >- grade.grade
+potable int
+
+states
+-----
+station_code int FK >- water_data.station_code
+areas varchar FK >- water_data.areas
+region varchar FK >- water_data.region
+
+contents
+-----
+station_code PK int FK >- water_data.station_code
+temperature float FK >- water_data.temperature
+DO float FK >- water_data.DO
+pH float FK >- water_data.pH
+conductivity float FK >- water_data.conductivity
+nitrate_nitrite float FK >- water_data.nitrate_nitrite
+coli float FK >- water_data.coli
+total_coli float FK >- water_data.total_coli
+
+station_per_state
+-----
+region varchar FK >- water_data.region
+num_of_stations int
+
+pot_station_per_state
+-----
+region varchar FK >- total_water_data.region
+num_stations_pot int
+
+percent_pot_stations
+----
+region varchar FK >- station_per_state.region
+num_of_stations int FK >- station_per_state.num_of_stations
+num_stations_pot int FK >- pot_station_per_state.num_stations_pot
+percent_potable float
