@@ -30,12 +30,13 @@ We decided to use two different methods to create Machine learning models for ou
 ## Presentation
 
 We created a Google slides presentation showing the description of the analysis & the required we want to achieve. The link to the presentation is as follows:
-https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit#slide=id.p
+
+https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit?usp=sharing
 
 ### Dashboard
 
 We created a preliminary blueprint for our Dashboard, this can be found in the last four pages of the Google slides. We plan to use Tableau public to create our storyboard & add interactive maps.
-https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit#slide=id.p
+https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit?usp=sharing
 
 ## Communications protocols:
 
