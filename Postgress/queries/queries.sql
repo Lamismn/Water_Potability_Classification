@@ -1,19 +1,10 @@
 --how many stations per state
 SELECT region,
-COUNT(station_code) AS "# of stations"
+COUNT(station_code) AS "num_of_stations"
 --INTO stations_per_state
 FROM water_data
 GROUP BY region
 ORDER BY COUNT(station_code) DESC;
-
---number of stations with potable water per state
-SELECT twd.region,
-COUNT(twd.potable) AS "num_stations_pot"
---INTO pot_stations_per_state
-FROM total_water_data AS twd
-WHERE (twd.potable = 1)
-GROUP BY twd.region
-ORDER BY COUNT(twd.potable) DESC;
 
 --total water data
 SELECT wd.station_code,
@@ -35,6 +26,15 @@ INNER JOIN grade AS gr
 ON (wd.station_code=gr.station_code)
 INNER JOIN potability AS pot
 ON (wd.station_code=pot.station_code);
+
+--number of stations with potable water per state
+SELECT twd.region,
+COUNT(twd.potable) AS "num_stations_pot"
+--INTO pot_stations_per_state
+FROM total_water_data AS twd
+WHERE (twd.potable = 1)
+GROUP BY twd.region
+ORDER BY COUNT(twd.potable) DESC;
 
 --percentage of potable water by state
 SELECT sps.region,

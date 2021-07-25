@@ -1,74 +1,50 @@
 # Water_Potability_Classification
 ## Overview
-This project aim is to determine the potability of water based on different readings of different quality metrics for 3276 samples of water, and shows the potability of each sample.
+This project aim is to determine the potability of water based on different readings of different quality metrics for different samples of water from stations across India.
 
-Water is a key element for life, many regions around the world suffer from clean water scarcity, which makes water potability one of the most crucial topics on earth. The aim of this study is to determine wether we could develop a machine learning model that could determine if the water is potable based on different characteristic readings.
+Water is a key element for life, many regions around the world suffer from clean water scarcity, which makes water potability one of the most crucial topics on earth. The aim of this study is to determine wether we could develop a machine learning model that could determine the water class & its potability based on different characteristic readings.
 ### Background
-The data used for this study is from a public dataset published on Kaggle.com, the dataset can be found in the following link: https://www.kaggle.com/adityakadiwal/water-potability
-#### Sample potability distribution:
+The data used for this study is collected form diffrent sources:
+1. Two public datasets published on Kaggle.com. The data set shows water metrics for different stations in India. the dataset can be found in the following link: https://www.kaggle.com/anbarivan/indian-water-quality-data & https://www.kaggle.com/venkatramakrishnan/india-water-quality-data
+2. An indian govermental website showing the water classification metrics. The link is as follows:  https://vikaspedia.in/energy/policy-support/environment-1/water/water-quality-and-standards
+3. The official Indian Governmental website showing the state boundaries & the district with the number of stations. The link is as follows: https://indiawris.gov.in/wris/#/RiverMonitoring
 
-The selected sample has a realtively balanced sample distribution that can be seen in the following chart:
+## Analysis
 
-![Fig1](https://user-images.githubusercontent.com/79733383/125202932-06858800-e244-11eb-982e-cb2c99ceb9eb.png)
+### Data preprocessing & cleaning
 
-This means that with little work, the results will not be skewed, as the samples used to train the machine learning model are balanced.
+The public datasets used in this study contain the metrics of the sampled water from different stations. To be able to train & test the Machine learning models, we used the classifications to creat additional tables showing the water class & the potability of each sample. This was achieved using pandas & Python.
 
-#### Sample CHaracterestics distribution:
+The datasets also contained a lot of Null data, duplicated stations & numeric values saved as strings. data cleaning was also done in Pandas.
 
-The Selected dataset studies 9 diffeerent measured characterestics of the sample, the characterestics & their distributions are as follows:
+### Database creation & adjustment
 
-1. PH Value:
-PH Level is an indicaion of the acidity or alkalinity of the water. The PH level column in our dataset has 2785 valid values, the following histogram shows the distribution of the values:
+We used SQL PostgreSQL to create & store our database & connect it to Pandas to create the Machine learning model. We needed joined tables to consolidate the tables from different sources as well as the new calculated fields showing water classes & potability. We joined different tables & created new tables separating numeric data from the string location data. The ERD  showing primary & secoondary keys was also created as well as the links needed to interface between the database & the Machine learning models
 
-![Fig2](https://user-images.githubusercontent.com/79733383/125203422-46e60580-e246-11eb-9ef4-e2eed4778e06.png)
+### Machine learning models
 
-The figure shows that the values distribution is relatively uniform. However, the number of valid values is less than the samples collected, which means we have some NaN values in this column.
+We decided to use two different methods to create Machine learning models for our study:
+1. Linear regression supervised machine learning, which will classify water to potab;e & non-potable, based on the tables created in the database
+2. Unsupervised Clustering & Kmeans, which will classify the water samples into one of six grades (or clusters), based on the tables created in the database using the Indian Government guidelines.
 
-2. Hardness:
-Hardness value is an indication of the amount of dissolved calcium & magnesium in the water. The Hardness column in our dataset has 3276 entries, their distribution can be seen in the following histogram:
+## Presentation
 
-![Fig3](https://user-images.githubusercontent.com/79733383/125203668-6598cc00-e247-11eb-97b3-f05a8e186e71.png)
+We created a Google slides presentation showing the description of the analysis & the required we want to achieve. The link to the presentation is as follows:
+https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit#slide=id.p
 
-As shown in the graph, the distribution has a relatively high spike in the middle, but is almost uniform apart from this. Also the number of valid entries equals the number of collected samples, which means no values need to be dropped based on hardness level.
+### Dashboard
 
-3. Solids:
-The Solids column in the datase indicates the total dissolved solids in the water sample. also known as the TDS. The following hsitogram shows the readings distribution:
-
-![Fig4](https://user-images.githubusercontent.com/79733383/125203926-c543a700-e248-11eb-8f61-ce03e4876d67.png)
-
-The chart shows that the values are slightly skewed to the left, which means we will need to study the values more before our analysis. The column has 3276 valid values, which means that no cells need to be dropped.
-
-4. Chloramines, Sulphates, Organoc carbons & Trihalomethanes:
-
-These columns show the presence of their titular salts & chemicals in the water samples. Their distributions can be shown in the following figures:
-
-![Fig5](https://user-images.githubusercontent.com/79733383/125204370-ec02dd00-e24a-11eb-9ba6-8538e1760033.png)
-![Fig6](https://user-images.githubusercontent.com/79733383/125204374-f1602780-e24a-11eb-99c9-c4e0b66f644b.png)
-![Fig7](https://user-images.githubusercontent.com/79733383/125204378-f91fcc00-e24a-11eb-8de9-a505386df74c.png)
-![Fig8](https://user-images.githubusercontent.com/79733383/125204383-fde48000-e24a-11eb-93ec-da0114951c43.png)
-
-Only the Sulfate & the Trihalomethanes columns have missing cells, they have 2495 & 3114 valid readings respectively.
-
-5. Conductivity:
-
-Pure water is not an electric conductor, which is why a samples conductivity is an indicator for the amount of dissolved solids in the sample. Our dataset's conductivity column distribution can be seen in the following histogram:
-
-![Fig9](https://user-images.githubusercontent.com/79733383/125204654-4c464e80-e24c-11eb-89f4-4ce40fc08926.png)
-
-This column has 3276 valid entries.
-
-6. Turbidity:
-
-Water turbidity is another indicator of the dissolved solids in water. Ouur dataset has 3276 enteries for the turbidity measurements, their distribution are shown in the following histogram:
-
-![Fig10](https://user-images.githubusercontent.com/79733383/125204783-f1612700-e24c-11eb-8660-9cf1753b3f50.png)
-
-## Purpose & Initial plan:
-Our main purpose from this study is to develop & train a machine learning model that can determine weather a water sample is potable or not based on the readings obtained. We also want to study the impact each of the metrics have on the potability of the water, & which metrics have the highest & the lowest impacts on water potability. 
-
-To obtain this, our plan is to start with a linear regression model (Supervised machine learning), since the data output is a binary classification of potable vs unpottable.
+We created a preliminary blueprint for our Dashboard, this can be found in the last four pages of the Google slides. We plan to use Tableau public to create our storyboard & add interactive maps.
+https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit#slide=id.p
 
 ## Communications protocols:
 
+We used different tools to communicate the requiremnets & results across the team:
+
+1. A shared Slack Channel
+2. A shared Github repository where each member has a branch to add their work
+3. During class, we communicate in our breakout room
+4. A separate zoom meeting we join on Sunday to finalize before submission
+5. We shared access to the Google slides, where we can all add/edit the presentation portion of the work.
 
 
