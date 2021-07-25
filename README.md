@@ -9,13 +9,15 @@ The data used for this study is collected form diffrent sources:
 2. An indian govermental website showing the water classification metrics. The link is as follows:  https://vikaspedia.in/energy/policy-support/environment-1/water/water-quality-and-standards
 3. The official Indian Governmental website showing the state boundaries & the district with the number of stations. The link is as follows: https://indiawris.gov.in/wris/#/RiverMonitoring
 
+## Analysis
+
 ### Data preprocessing & cleaning
 
 The public datasets used in this study contain the metrics of the sampled water from different stations. To be able to train & test the Machine learning models, we used the classifications to creat additional tables showing the water class & the potability of each sample. This was achieved using pandas & Python.
 
 The datasets also contained a lot of Null data, duplicated stations & numeric values saved as strings. data cleaning was also done in Pandas.
 
-### Database creation & adjudtment
+### Database creation & adjustment
 
 We used SQL PostgreSQL to create & store our database & connect it to Pandas to create the Machine learning model. We needed joined tables to consolidate the tables from different sources as well as the new calculated fields showing water classes & potability. We joined different tables & created new tables separating numeric data from the string location data. The ERD  showing primary & secoondary keys was also created as well as the links needed to interface between the database & the Machine learning models
 
@@ -37,5 +39,12 @@ https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6T
 
 ## Communications protocols:
 
+We used different tools to communicate the requiremnets & results across the team:
+
+1. A shared Slack Channel
+2. A shared Github repository where each member has a branch to add their work
+3. During class, we communicate in our breakout room
+4. A separate zoom meeting we join on Sunday to finalize before submission
+5. We shared access to the Google slides, where we can all add/edit the presentation portion of the work.
 
 
