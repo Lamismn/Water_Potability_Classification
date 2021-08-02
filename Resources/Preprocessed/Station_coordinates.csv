@@ -1,0 +1,1251 @@
+STATION CODE,STATE,District,Lat,Lng
+1,Maharashtra,Aurangabad district,19.8911,75.1545
+2,Maharashtra,Nashik district,20.0005,73.7827
+3,Maharashtra,Nashik district,20.0005,73.7827
+4,Maharashtra,Nashik district,20.0005,73.7827
+5,Maharashtra,Nandurbar,21.3723,74.2426
+6,Maharashtra,Nashik district,20.0005,73.7827
+7,Maharashtra,Nashik district,20.0005,73.7827
+8,Maharashtra,Nashik district,20.0005,73.7827
+9,Maharashtra,Nashik district,20.0005,73.7827
+10,Maharashtra,Nashik district,20.0005,73.7827
+11,Maharashtra,Aurangabad district,19.8911,75.1545
+12,Maharashtra,Aurangabad district,19.8911,75.1545
+13,Maharashtra,Aurangabad district,19.8911,75.1545
+14,Maharashtra,Jalna,19.8300,75.8800
+15,Maharashtra,Latur district,18.4000,76.5800
+16,Maharashtra,Thane,19.4305,72.9656
+17,Maharashtra,Amravati,20.9297,77.7581
+18,Andhra Pradesh,East Godavari district,17.3213,82.0407
+19,Andhra Pradesh,East Godavari district,17.3213,82.0407
+20,Andhra Pradesh,East Godavari district,17.3213,82.0407
+21,Andhra Pradesh,East Godavari district,17.3213,82.0407
+22,Andhra Pradesh,East Godavari district,17.3213,82.0407
+23,Andhra Pradesh,East Godavari district,17.3213,82.0407
+24,Andhra Pradesh,East Godavari district,17.3213,82.0407
+25,Andhra Pradesh,East Godavari district,17.3213,82.0407
+26,Andhra Pradesh,East Godavari district,17.3213,82.0407
+27,Andhra Pradesh,East Godavari district,17.3213,82.0407
+28,Andhra Pradesh,East Godavari district,17.3213,82.0407
+29,Andhra Pradesh,East Godavari district,17.3213,82.0407
+30,Andhra Pradesh,East Godavari district,17.3213,82.0407
+32,Andhra Pradesh,East Godavari district,17.3213,82.0407
+33,Andhra Pradesh,East Godavari district,17.3213,82.0407
+44,Uttar Pradesh,Bulandshahr district,28.4170,77.8330
+45,Uttar Pradesh,Bulandshahr district,28.4170,77.8330
+46,Uttar Pradesh,Bulandshahr district,28.4170,77.8330
+47,Uttar Pradesh,Bulandshahr district,28.4170,77.8330
+48,Uttar Pradesh,Budaun district,28.1299,78.9288
+49,Uttar Pradesh,Kannauj district,27.0297,79.6951
+50,Uttar Pradesh,Kannauj district,27.0297,79.6951
+51,Uttar Pradesh,Kanpur,26.3397,80.2929
+52,Uttar Pradesh,Kanpur,26.3397,80.2929
+53,Uttar Pradesh,Kanpur,26.3397,80.2929
+54,Uttar Pradesh,Kanpur,26.3397,80.2929
+55,Uttar Pradesh,Kanpur,26.3397,80.2929
+56,Uttar Pradesh,Allahabad,26.0138,81.3126
+57,Uttar Pradesh,Allahabad,26.0138,81.3126
+58,Uttar Pradesh,Allahabad,26.0138,81.3126
+59,Uttar Pradesh,Mirzapur,25.1500,82.6000
+60,Uttar Pradesh,Mirzapur,25.1500,82.6000
+61,Uttar Pradesh,Varanasi,25.2820,82.9563
+62,Uttar Pradesh,Varanasi,25.2820,82.9563
+63,Uttar Pradesh,Kannauj district,27.0514,79.9137
+64,Uttar Pradesh,Muzaffarnagar,29.4723,77.7089
+65,Bihar,Buxar,25.5610,83.9807
+66,Bihar,Buxar,25.5610,83.9807
+67,Bihar,Patna,25.6110,85.1440
+68,Bihar,Rohtas district,25.0686,84.0167
+69,Bihar,Saran district,25.856,84.8568
+70,Bihar,Patna,25.6110,85.1440
+71,Bihar,Patna,25.6110,85.1440
+72,Bihar,Patna,25.6110,85.1440
+73,Bihar,Patna,25.6110,85.1440
+74,Bihar,Patna,25.6110,85.1440
+75,Bihar,Patna,25.6110,85.1440
+76,Bihar,Munger,25.3868,86.4659
+77,Bihar,Bhagalpur,25.2413,86.9901
+78,Bihar,Bhagalpur,25.2413,86.9901
+79,Bihar,Bhagalpur,25.2413,86.9901
+80,Bihar,Buxar,25.5610,83.9807
+81,Bihar,Buxar,25.5610,83.9807
+82,Bihar,Barh,25.4800,85.7200
+83,Bihar,Munger,25.3868,86.4659
+84,Bihar,Munger,25.3868,86.4659
+85,Bihar,Bhagalpur,25.2413,86.9901
+86,Bihar,Patna,25.6110,85.1440
+87,Bihar,Patna,25.6110,85.1440
+88,West Bengal,Murshidabad,24.1733,88.2777
+89,West Bengal,Nadia district,23.471,88.5565
+90,West Bengal,Hooghly district,22.8956,88.4025
+91,West Bengal,North 24 Parganas district,22.1300,88.5000
+92,West Bengal,Hooghly district,22.8956,88.4025
+93,West Bengal,North 24 Parganas district,22.1300,88.5000
+94,West Bengal,Howrah district,22.5892,88.3103
+95,West Bengal,Howrah district,22.5892,88.3103
+96,West Bengal,Howrah district,22.5892,88.3103
+97,West Bengal,Howrah district,22.5892,88.3103
+98,Assam,Dibrugarh,27.4800,95.0000
+99,Assam,Dibrugarh,27.4800,95.0000
+100,Assam,Jorhat,26.7749,94.1814
+101,Assam,Jorhat,26.7749,94.1814
+102,Assam,Kamrup district,26.3161,91.5984
+103,Assam,Kamrup district,26.3161,91.5984
+104,Assam,Kamrup district,26.3161,91.5984
+105,Assam,Kamrup district,26.3161,91.5984
+106,Assam,Kamrup district,26.3161,91.5984
+107,Assam,Dhubri,26.1221,90.0919
+108,Maharashtra,Amravati,20.9297,77.7581
+110,Maharashtra,Amravati,20.9297,77.7581
+111,Maharashtra,Sangli district,17.1707,74.6869
+113,Maharashtra,Kolhapur district,16.5764,74.124
+114,Maharashtra,Thane,19.4305,72.9656
+115,Maharashtra,Thane,19.4305,72.9656
+116,Maharashtra,Raigad Fort,18.2350,73.4478
+117,Karnataka,Belgaum,15.8528,74.5111
+118,Karnataka,Belgaum,15.8528,74.5111
+119,Karnataka,Belgaum,15.8528,74.5111
+120,Karnataka,Belgaum,15.8528,74.5111
+121,Karnataka,Belgaum,15.8528,74.5111
+122,Karnataka,Belgaum,15.8528,74.5111
+124,Andhra Pradesh,East Godavari district,17.3213,82.0407
+126,Andhra Pradesh,Krishna district,16.61,80.7214
+127,Andhra Pradesh,Guntur district,16.3067,80.4365
+128,Andhra Pradesh,Guntur district,16.3067,80.4365
+129,Andhra Pradesh,Krishna district,16.61,80.7214
+130,Andhra Pradesh,Krishna district,16.61,80.7214
+131,Andhra Pradesh,Guntur district,16.3067,80.4365
+134,Himachal Pradesh,Una district,31.5602,76.2247
+135,Himachal Pradesh,Una district,31.5602,76.2247
+139,Uttar Pradesh,Mathura,27.4763,77.6935
+140,Uttar Pradesh,Mathura,27.4763,77.6935
+141,Uttar Pradesh,Mathura,27.4763,77.6935
+142,Uttar Pradesh,Mathura,27.4763,77.6935
+144,Karnataka,"Hassan, Karnataka",13.0120,76.0680
+145,Karnataka,"Hassan, Karnataka",13.0120,76.0680
+147,Karnataka,Ramanagara,12.7201,77.2834
+148,Karnataka,Ramanagara,12.7201,77.2834
+149,Karnataka,Ramanagara,12.7201,77.2834
+150,Karnataka,Mysore,12.3000,76.6500
+151,Karnataka,Mysore,12.3000,76.6500
+152,Kerala,Kollam,8.8800,76.6000
+153,Karnataka,Mysore,12.3000,76.6500
+154,Karnataka,Mysore,12.3000,76.6500
+155,Karnataka,Mysore,12.3000,76.6500
+156,Karnataka,Mysore,12.3000,76.6500
+157,Kerala,Palakkad,10.7925,76.5553
+158,Tamil Nadu,Thoothukudi,8.8100,78.1400
+159,Tamil Nadu,Coimbatore,11.0183,76.9725
+160,Tamil Nadu,Erode,11.3348,77.7273
+161,Tamil Nadu,Erode,11.3348,77.7273
+162,Tamil Nadu,Erode,11.3348,77.7273
+163,Tamil Nadu,Erode,11.3348,77.7273
+164,Tamil Nadu,Erode,11.3348,77.7273
+165,Himachal Pradesh,Una district,31.5602,76.2247
+166,Himachal Pradesh,Solan district,30.9084,77.0999
+167,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+168,Himachal Pradesh,Una district,31.5602,76.2247
+169,Himachal Pradesh,Solan district,30.9084,77.0999
+170,Himachal Pradesh,Solan district,30.9084,77.0999
+171,Himachal Pradesh,Solan district,30.9084,77.0999
+172,Himachal Pradesh,Shimla,31.0874,77.1794
+173,Himachal Pradesh,Shimla,31.0874,77.1794
+174,Himachal Pradesh,Shimla,31.0874,77.1794
+176,Uttar Pradesh,Ghaziabad district,28.6692,77.4538
+177,Uttar Pradesh,Ghaziabad district,28.6692,77.4538
+178,Madhya Pradesh,Jabalpur,23.1657,79.9324
+181,Uttar Pradesh,"Hamirpur district, Himachal Pradesh",25.954,80.1526
+182,Uttar Pradesh,Hamirpur district,25.954,80.1526
+185,Rajasthan,Kota,25.1800,75.8300
+187,Rajasthan,Kota,25.1800,75.8300
+188,Rajasthan,Kota,25.1800,75.8300
+189,Rajasthan,Kota,25.1800,75.8300
+193,Rajasthan,Kota,25.1800,75.8300
+195,Madhya Pradesh,Indore,22.7187,75.8557
+199,Rajasthan,Kota,25.1800,75.8300
+200,Rajasthan,Kota,25.1800,75.8300
+202,Madhya Pradesh,Indore,22.7187,75.8557
+206,Rajasthan,Sirohi,24.8848,72.8535
+208,Rajasthan,Jaipur,26.9210,75.7944
+210,Rajasthan,Jhalawar,24.6000,76.1500
+211,West Bengal,Darjeeling,27.0500,88.2667
+212,Assam,Tinsukia district,27.4886,95.3558
+213,Assam,Sivasagar,26.9021,94.6661
+214,Assam,Lakhimpur district,27.2064,94.1514
+215,Assam,Lakhimpur district,27.2064,94.1514
+216,Assam,Dhubri,26.1221,90.0919
+217,Assam,Nagaon,26.3622,92.7537
+218,Assam,Nagaon,26.3622,92.7537
+219,Assam,Dhubri,26.1221,90.0919
+220,Assam,Cachar,24.7821,92.8577
+221,Assam,Sonitpur district,26.6300,92.8000
+222,Assam,Karimganj,24.8602,92.3731
+223,West Bengal,Jalpaiguri district,26.5215,88.7196
+224,West Bengal,Alipurduar,26.4922,89.5331
+225,Assam,Karimganj,24.8602,92.3731
+233,Uttar Pradesh,Kannauj district,27.0514,79.9137
+235,Uttar Pradesh,Kannauj district,27.0514,79.9137
+236,Uttar Pradesh,Varanasi,25.2820,82.9563
+237,Uttar Pradesh,Varanasi,25.2820,82.9563
+238,Uttar Pradesh,Unnao district,26.5393,80.4878
+239,Uttar Pradesh,Jaunpur,25.7549,82.6871
+240,Uttar Pradesh,Sitapur district,27.568,80.679
+241,Uttar Pradesh,Lucknow,26.8470,80.9470
+242,Uttar Pradesh,Lucknow,26.8470,80.9470
+243,Uttar Pradesh,Jaunpur,25.7549,82.6871
+244,Uttar Pradesh,Varanasi,25.2820,82.9563
+245,Uttar Pradesh,Lalitpur District,24.6902,78.4160
+246,Uttar Pradesh,Lalitpur District,24.6902,78.4160
+247,Uttar Pradesh,Lalitpur District,24.6902,78.4160
+248,Uttar Pradesh,Deoria district,26.5024,83.7791
+249,Uttar Pradesh,Deoria district,26.5024,83.7791
+250,Bihar,Barh,25.4800,85.7200
+251,Uttar Pradesh,Gorakhpur,26.7588,83.3697
+252,Uttar Pradesh,Gorakhpur,26.7588,83.3697
+253,Bihar,Bhojpur district,25.4662,84.5222
+254,Bihar,Bhojpur district,25.4662,84.5222
+255,Bihar,Bhojpur district,25.4662,84.5222
+256,Bihar,Bhojpur district,25.4662,84.5222
+257,Bihar,Patna,25.6110,85.1440
+258,Bihar,Muzaffarpur,26.1409,85.3575
+259,Bihar,Muzaffarpur,26.1409,85.3575
+260,Bihar,Muzaffarpur,26.1409,85.3575
+261,Bihar,Muzaffarpur,26.1409,85.3575
+262,Bihar,Champaran,26.8437,84.6826
+263,Bihar,Champaran,26.8437,84.6826
+264,Bihar,Champaran,26.8437,84.6826
+265,Bihar,Muzaffarpur,26.1409,85.3575
+266,Bihar,Patna,25.6110,85.1440
+267,Bihar,Patna,25.6110,85.1440
+268,Bihar,Madhubani village,26.9913,84.1127
+269,Bihar,Darbhanga,26.1488,85.9033
+270,Bihar,Darbhanga,26.1488,85.9033
+271,Bihar,Sitamarhi,26.5619,85.5226
+272,Bihar,Katihar,25.5300,87.5800
+273,Bihar,Madhepura,25.8220,86.8977
+274,Bihar,Madhepura,25.8220,86.8977
+275,Bihar,Siwan,26.1603,84.4148
+276,Bihar,Siwan,26.1603,84.4148
+277,Bihar,Siwan,26.1603,84.4148
+278,Bihar,Madhubani village,26.9913,84.1127
+279,Bihar,Madhubani village,26.9913,84.1127
+280,Bihar,Madhubani village,26.9913,84.1127
+281,Bihar,Darbhanga,26.1488,85.9033
+282,Bihar,Darbhanga,26.1488,85.9033
+283,Bihar,Darbhanga,26.1488,85.9033
+284,Bihar,Muzaffarpur,26.1409,85.3575
+285,Bihar,Darbhanga,26.1488,85.9033
+287,Bihar,Patna,25.6110,85.1440
+288,Bihar,Patna,25.6110,85.1440
+289,Bihar,Patna,25.6110,85.1440
+290,Punjab,Mansa district,29.9833,75.3833
+291,Punjab,Mansa district,29.9833,75.3833
+292,Punjab,Mohali district,30.6900,76.7200
+293,Punjab,Mansa district,29.9833,75.3833
+294,Punjab,Mohali district,30.6900,76.7200
+295,Punjab,Ludhiana,30.9008,75.7721
+296,Punjab,Ludhiana,30.9008,75.7721
+297,Punjab,Mansa district,29.9833,75.3833
+298,Punjab,Mansa district,29.9833,75.3833
+299,Punjab,Sangrur,30.2506,75.8442
+300,Punjab,Mansa district,29.9833,75.3833
+301,Punjab,Mansa district,29.9833,75.3833
+302,Rajasthan,Jhalawar,24.6000,76.1500
+303,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+304,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+305,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+306,Himachal Pradesh,Solan district,30.9084,77.0999
+307,Rajasthan,Sirohi,24.8848,72.8535
+308,Rajasthan,Sirohi,24.8848,72.8535
+309,Rajasthan,Pali,25.7898,73.3278
+310,Rajasthan,Udaipur,24.5800,73.6800
+311,Maharashtra,Raigad Fort,18.2350,73.4478
+312,Maharashtra,Raigad Fort,18.2350,73.4478
+313,Maharashtra,Thane,19.4305,72.9656
+314,Maharashtra,Thane,19.4305,72.9656
+315,Maharashtra,Ratnagiri,16.9800,73.3000
+316,Maharashtra,Dhule district,21.0577,74.6869
+317,Maharashtra,Raigad Fort,18.2350,73.4478
+318,Maharashtra,Ratnagiri,16.9800,73.3000
+319,Maharashtra,Raigad Fort,18.2350,73.4478
+320,Maharashtra,Raigad Fort,18.2350,73.4478
+321,Maharashtra,Raigad Fort,18.2350,73.4478
+323,Maharashtra,Raigad Fort,18.2350,73.4478
+324,Maharashtra,Raigad Fort,18.2350,73.4478
+325,Maharashtra,Raigad Fort,18.2350,73.4478
+326,Maharashtra,Raigad Fort,18.2350,73.4478
+327,Maharashtra,Raigad Fort,18.2350,73.4478
+328,Maharashtra,Raigad Fort,18.2350,73.4478
+329,Maharashtra,Raigad Fort,18.2350,73.4478
+330,Maharashtra,Thane,19.4305,72.9656
+336,Maharashtra,Thane,19.4305,72.9656
+337,Maharashtra,Thane,19.4305,72.9656
+338,Maharashtra,Thane,19.4305,72.9656
+339,Maharashtra,Thane,19.4305,72.9656
+340,Maharashtra,Thane,19.4305,72.9656
+341,Maharashtra,Thane,19.4305,72.9656
+342,Maharashtra,Thane,19.4305,72.9656
+343,Maharashtra,Thane,19.4305,72.9656
+351,Maharashtra,Pune district,18.6833,74.03
+352,Maharashtra,Pune district,18.6833,74.03
+353,Maharashtra,Pune district,18.6833,74.03
+354,Maharashtra,Pune district,18.6833,74.03
+355,Maharashtra,Pune district,18.6833,74.03
+356,Maharashtra,Pune district,18.6833,74.03
+357,Maharashtra,Pune district,18.6833,74.03
+358,Maharashtra,Pune district,18.6833,74.03
+359,Karnataka,Gulbarga district,17.3420,76.8375
+360,Karnataka,Gulbarga district,17.3420,76.8375
+361,Karnataka,Gulbarga district,17.3420,76.8375
+362,Karnataka,Gulbarga district,17.3420,76.8375
+363,Goa,North Goa,15.5163,73.983
+364,Goa,North Goa,15.5163,73.983
+365,Goa,North Goa,15.5163,73.983
+366,Goa,North Goa,15.5163,73.983
+367,Goa,North Goa,15.5163,73.983
+368,Goa,North Goa,15.5163,73.983
+369,Goa,North Goa,15.5163,73.983
+370,Goa,North Goa,15.5163,73.983
+371,Goa,North Goa,15.5163,73.983
+372,Goa,North Goa,15.5163,73.983
+373,Goa,North Goa,15.5163,73.983
+374,Goa,North Goa,15.5163,73.983
+375,Goa,North Goa,15.5163,73.983
+376,Goa,North Goa,15.5163,73.983
+377,Goa,North Goa,15.5163,73.983
+378,Goa,North Goa,15.5163,73.983
+379,Goa,North Goa,15.5163,73.983
+380,Goa,North Goa,15.5163,73.983
+381,Goa,North Goa,15.5163,73.983
+382,Goa,North Goa,15.5163,73.983
+383,Goa,North Goa,15.5163,73.983
+384,Goa,North Goa,15.5163,73.983
+385,Goa,North Goa,15.5163,73.983
+386,Goa,North Goa,15.5163,73.983
+387,Goa,North Goa,15.5163,73.983
+388,Goa,North Goa,15.5163,73.983
+389,Goa,North Goa,15.5163,73.983
+390,Goa,North Goa,15.5163,73.983
+393,Maharashtra,Latur district,18.4000,76.5800
+394,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+395,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+396,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+397,Andhra Pradesh,Guntur district,16.3067,80.4365
+398,Karnataka,Bidar,17.9135,77.5197
+401,Maharashtra,Chandrapur district,20.2095,79.5603
+402,Maharashtra,Chandrapur district,20.2095,79.5603
+403,Maharashtra,Chandrapur district,20.2095,79.5603
+404,Maharashtra,Chandrapur district,20.2095,79.5603
+405,Maharashtra,Chandrapur district,20.2095,79.5603
+406,Maharashtra,Chandrapur district,20.2095,79.5603
+407,Madhya Pradesh,Jabalpur,23.1657,79.9324
+408,Madhya Pradesh,Indore,22.7187,75.8557
+409,Madhya Pradesh,Jabalpur,23.1657,79.9324
+410,Maharashtra,Chandrapur district,20.2095,79.5603
+411,Maharashtra,Chandrapur district,20.2095,79.5603
+412,Maharashtra,Chandrapur district,20.2095,79.5603
+413,Maharashtra,Chandrapur district,20.2095,79.5603
+414,Maharashtra,Chandrapur district,20.2095,79.5603
+415,Maharashtra,Chandrapur district,20.2095,79.5603
+416,Maharashtra,Nagpur district,21.317,79.2
+417,Madhya Pradesh,Jabalpur,23.1657,79.9324
+418,Maharashtra,Nagpur district,21.317,79.2
+419,Maharashtra,Amravati,20.9297,77.7581
+420,Maharashtra,Amravati,20.9297,77.7581
+421,Maharashtra,Amravati,20.9297,77.7581
+422,Maharashtra,Amravati,20.9297,77.7581
+423,Maharashtra,Amravati,20.9297,77.7581
+424,Andhra Pradesh,Guntur district,16.3067,80.4365
+426,Maharashtra,Amravati,20.9297,77.7581
+427,Maharashtra,Nagpur district,21.317,79.2
+428,Maharashtra,Nashik district,20.0005,73.7827
+429,Maharashtra,Nashik district,20.0005,73.7827
+430,Maharashtra,Nashik district,20.0005,73.7827
+431,Maharashtra,Nashik district,20.0005,73.7827
+432,Maharashtra,Yavatmal,20.2400,78.0600
+433,Maharashtra,Yavatmal,20.2400,78.0600
+434,Maharashtra,Buldhana district,20.5328,76.1828
+435,Maharashtra,Yavatmal,20.2400,78.0600
+436,Maharashtra,Yavatmal,20.2400,78.0600
+437,Karnataka,Bagalkot,16.1792,75.6994
+438,Karnataka,Bagalkot,16.1792,75.6994
+439,Karnataka,Bagalkot,16.1792,75.6994
+440,Karnataka,Belgaum,15.8528,74.5111
+441,Karnataka,Belgaum,15.8528,74.5111
+442,Karnataka,Belgaum,15.8528,74.5111
+443,Karnataka,Chikmagalur,13.3200,75.7700
+444,Karnataka,Chikmagalur,13.3200,75.7700
+445,Karnataka,Chikmagalur,13.3200,75.7700
+446,Karnataka,Chikmagalur,13.3200,75.7700
+447,Karnataka,Chikmagalur,13.3200,75.7700
+448,Karnataka,Chikmagalur,13.3200,75.7700
+449,Karnataka,Chikmagalur,13.3200,75.7700
+450,Karnataka,Chikmagalur,13.3200,75.7700
+451,Karnataka,Chikmagalur,13.3200,75.7700
+452,Andhra Pradesh,Kurnool,15.8300,78.0500
+453,Andhra Pradesh,Kurnool,15.8300,78.0500
+454,Karnataka,Chikmagalur,13.3200,75.7700
+455,Karnataka,Shimoga,13.9167,75.5667
+456,Karnataka,Chikmagalur,13.3200,75.7700
+457,Karnataka,Chikmagalur,13.3200,75.7700
+458,Karnataka,Chikmagalur,13.3200,75.7700
+459,Karnataka,Chikmagalur,13.3200,75.7700
+460,Karnataka,Chikmagalur,13.3200,75.7700
+464,Andhra Pradesh,Kurnool,15.8300,78.0500
+465,Andhra Pradesh,Krishna district,16.61,80.7214
+466,Andhra Pradesh,Krishna district,16.61,80.7214
+467,Karnataka,Gulbarga district,17.3420,76.8375
+468,Karnataka,Gulbarga district,17.3420,76.8375
+469,Andhra Pradesh,Kurnool,15.8300,78.0500
+470,Andhra Pradesh,Kurnool,15.8300,78.0500
+471,Karnataka,Bagalkot,16.1792,75.6994
+472,Goa,North Goa,15.5163,73.983
+473,Goa,North Goa,15.5163,73.983
+474,Goa,North Goa,15.5163,73.983
+475,Goa,North Goa,15.5163,73.983
+476,Goa,North Goa,15.5163,73.983
+477,Goa,North Goa,15.5163,73.983
+478,Goa,North Goa,15.5163,73.983
+479,Goa,North Goa,15.5163,73.983
+481,Gujarat,Ahmedabad,23.0145,72.5918
+482,Gujarat,Ahmedabad,23.0145,72.5918
+483,Gujarat,Ahmedabad,23.0145,72.5918
+484,Gujarat,Ahmedabad,23.0145,72.5918
+489,Gujarat,Mehsana,23.6009,72.3898
+490,Gujarat,Mehsana,23.6009,72.3898
+499,Gujarat,Mehsana,23.6009,72.3898
+500,Gujarat,Mehsana,23.6009,72.3898
+501,Madhya Pradesh,Bhopal,23.1395,77.4086
+502,Madhya Pradesh,Bhopal,23.1395,77.4086
+503,Madhya Pradesh,Bhopal,23.1395,77.4086
+504,Madhya Pradesh,Bhopal,23.1395,77.4086
+505,Madhya Pradesh,Jabalpur,23.1657,79.9324
+506,Madhya Pradesh,Rewa,24.5300,81.3000
+507,Madhya Pradesh,Rewa,24.5300,81.3000
+508,Madhya Pradesh,Rewa,24.5300,81.3000
+509,Madhya Pradesh,Rewa,24.5300,81.3000
+510,Madhya Pradesh,Rewa,24.5300,81.3000
+511,Madhya Pradesh,Rewa,24.5300,81.3000
+512,Madhya Pradesh,Chhatarpur,24.9210,79.5839
+513,Madhya Pradesh,Jabalpur,23.1657,79.9324
+514,Madhya Pradesh,Jabalpur,23.1657,79.9324
+515,Madhya Pradesh,Jabalpur,23.1657,79.9324
+519,Rajasthan,Udaipur,24.5800,73.6800
+520,Rajasthan,Udaipur,24.5800,73.6800
+521,Rajasthan,Ajmer,26.4590,74.6364
+522,Rajasthan,Ajmer,26.4590,74.6364
+523,Rajasthan,Jodhpur,26.2833,73.0219
+524,Rajasthan,Sirohi,24.8848,72.8535
+525,Rajasthan,Bundi,25.4375,75.6463
+526,Rajasthan,Alwar,27.3400,76.3800
+527,Rajasthan,Alwar,27.3400,76.3800
+528,Rajasthan,Rajsamand,25.0700,73.8800
+529,Rajasthan,Rajsamand,25.0700,73.8800
+530,Rajasthan,Dungarpur,23.8300,73.7200
+531,Rajasthan,Udaipur,24.5800,73.6800
+532,Rajasthan,Udaipur,24.5800,73.6800
+533,Rajasthan,Dungarpur,23.8300,73.7200
+534,Rajasthan,Jaipur,26.9210,75.7944
+600,Kerala,Kollam,8.8800,76.6000
+601,Kerala,Pathanamthitta,9.2656,76.7853
+602,Kerala,Pathanamthitta,9.2656,76.7853
+603,Kerala,Pathanamthitta,9.2656,76.7853
+604,Kerala,Kannur,11.8608,75.4140
+605,Kerala,Kannur,11.8608,75.4140
+606,Kerala,Pathanamthitta,9.2656,76.7853
+607,Kerala,Palakkad,10.7925,76.5553
+608,Kerala,Kozhikode,11.2591,75.7820
+609,Kerala,Kozhikode,11.2591,75.7820
+610,Kerala,Kozhikode,11.2591,75.7820
+611,Kerala,Kozhikode,11.2591,75.7820
+612,Kerala,Kozhikode,11.2591,75.7820
+613,Kerala,Kasaragod,12.4997,74.9870
+614,Kerala,Kasaragod,12.4997,74.9870
+615,Kerala,Kozhikode,11.2591,75.7820
+616,Kerala,Kollam,8.8800,76.6000
+617,Kerala,Kollam,8.8800,76.6000
+618,Kerala,Kozhikode,11.2591,75.7820
+619,Kerala,Kozhikode,11.2591,75.7820
+620,Kerala,Kasaragod,12.4997,74.9870
+621,Kerala,Kasaragod,12.4997,74.9870
+622,Kerala,Kollam,8.8800,76.6000
+623,Kerala,Kozhikode,11.2591,75.7820
+624,Kerala,Palakkad,10.7925,76.5553
+625,Kerala,Kottayam,9.5800,76.5200
+626,Kerala,Kottayam,9.5800,76.5200
+627,Kerala,Thiruvananthapuram,8.4875,76.9525
+628,Kerala,Thiruvananthapuram,8.4875,76.9525
+629,Kerala,Thiruvananthapuram,8.4875,76.9525
+630,Kerala,Palakkad,10.7925,76.5553
+631,Kerala,Malappuram,11.0410,76.0830
+632,Kerala,Malappuram,11.0410,76.0830
+633,Kerala,Kannur,11.8608,75.4140
+634,Kerala,Kannur,11.8608,75.4140
+635,Kerala,Kozhikode,11.2591,75.7820
+636,Kerala,Kozhikode,11.2591,75.7820
+637,Kerala,Thiruvananthapuram,8.4875,76.9525
+638,Kerala,Thiruvananthapuram,8.4875,76.9525
+639,Kerala,Thiruvananthapuram,8.4875,76.9525
+640,Kerala,Wayanad,11.6854,76.132
+641,Kerala,Kasaragod,12.4997,74.9870
+642,Kerala,Kottayam,9.5800,76.5200
+643,Kerala,Kasaragod,12.4997,74.9870
+644,Kerala,Kottayam,9.5800,76.5200
+645,Kerala,Kasaragod,12.4997,74.9870
+646,Kerala,Kasaragod,12.4997,74.9870
+647,Kerala,Thiruvananthapuram,8.4875,76.9525
+648,Kerala,Thiruvananthapuram,8.4875,76.9525
+649,Kerala,Pathanamthitta,9.2656,76.7853
+650,Kerala,Pathanamthitta,9.2656,76.7853
+651,Kerala,Pathanamthitta,9.2656,76.7853
+652,Kerala,Pathanamthitta,9.2656,76.7853
+653,Kerala,Idukki,9.8500,76.9700
+654,Kerala,Idukki,9.8500,76.9700
+655,Kerala,Idukki,9.8500,76.9700
+656,Kerala,Idukki,9.8500,76.9700
+657,Kerala,Idukki,9.8500,76.9700
+658,Kerala,Idukki,9.8500,76.9700
+659,Kerala,Idukki,9.8500,76.9700
+660,Kerala,Idukki,9.8500,76.9700
+661,Kerala,Kannur,11.8608,75.4140
+662,Kerala,Thrissur,10.5200,76.2100
+663,Kerala,Palakkad,10.7925,76.5553
+664,Kerala,Kasaragod,12.4997,74.9870
+665,Kerala,Kasaragod,12.4997,74.9870
+666,Kerala,Kannur,11.8608,75.4140
+667,Kerala,Malappuram,11.0410,76.0830
+668,Kerala,Kasaragod,12.4997,74.9870
+669,Kerala,Kannur,11.8608,75.4140
+670,Kerala,Kannur,11.8608,75.4140
+671,Andhra Pradesh,Kurnool,15.8300,78.0500
+672,Andhra Pradesh,Khammam,17.2500,80.1500
+673,Andhra Pradesh,Khammam,17.2500,80.1500
+674,Andhra Pradesh,Khammam,17.2500,80.1500
+675,Karnataka,Uttara Kannada,14.6000,74.7000
+676,Karnataka,Uttara Kannada,14.6000,74.7000
+677,Karnataka,Uttara Kannada,14.6000,74.7000
+678,Karnataka,Uttara Kannada,14.6000,74.7000
+679,Odisha,Balasore,21.4916,86.9150
+680,Odisha,Balasore,21.4916,86.9150
+681,Odisha,Koraput,18.8132,82.7126
+682,Odisha,Rayagada,19.1754,83.4109
+683,Odisha,Rayagada,19.1754,83.4109
+684,Odisha,Rayagada,19.1754,83.4109
+685,Odisha,Ganjam,19.3800,85.0700
+686,Odisha,Ganjam,19.3800,85.0700
+687,Odisha,Rayagada,19.1754,83.4109
+688,Odisha,Rayagada,19.1754,83.4109
+694,Tamil Nadu,Tirupattur,12.5000,78.6000
+695,Tamil Nadu,Tirunelveli,8.7288,77.7046
+696,Tamil Nadu,Tirunelveli,8.7288,77.7046
+697,Tamil Nadu,Tirunelveli,8.7288,77.7046
+698,Tamil Nadu,Thoothukudi,8.8100,78.1400
+699,Tamil Nadu,Tirunelveli,8.7288,77.7046
+700,Tamil Nadu,Tirunelveli,8.7288,77.7046
+701,Tamil Nadu,Thoothukudi,8.8100,78.1400
+702,Tamil Nadu,Thoothukudi,8.8100,78.1400
+703,Tamil Nadu,Tirunelveli,8.7288,77.7046
+704,Tamil Nadu,Tirunelveli,8.7288,77.7046
+705,Tamil Nadu,Tirunelveli,8.7288,77.7046
+706,Tamil Nadu,Tirunelveli,8.7288,77.7046
+707,Tamil Nadu,Salem,11.6521,78.1580
+733,Meghalaya,South Garo Hills district,25.3301,90.5636
+734,Meghalaya,South Garo Hills district,25.3301,90.5636
+735,Meghalaya,East Garo Hills district,25.5672,90.5258
+736,Meghalaya,East Garo Hills district,25.5672,90.5258
+737,Meghalaya,East Jainta hills,25.3101,92.5
+738,Meghalaya,West Khasi Hills district,25.5625,91.2891
+739,Meghalaya,West Khasi Hills district,25.5625,91.2891
+740,Meghalaya,West Khasi Hills district,25.5625,91.2891
+741,Meghalaya,East Jainta hills,25.3101,92.5
+742,Meghalaya,East Jainta hills,25.3101,92.5
+743,Meghalaya,East Garo Hills district,25.5672,90.5258
+744,Meghalaya,East Garo Hills district,25.5672,90.5258
+745,Meghalaya,East Jainta hills,25.3101,92.5
+746,Meghalaya,East Jainta hills,25.3101,92.5
+747,Meghalaya,East Jainta hills,25.3101,92.5
+748,Meghalaya,East Jainta hills,25.3101,92.5
+749,Meghalaya,West Khasi Hills district,25.5625,91.2891
+750,Meghalaya,West Khasi Hills district,25.5625,91.2891
+751,Meghalaya,West Khasi Hills district,25.5625,91.2891
+752,Meghalaya,West Khasi Hills district,25.5625,91.2891
+753,Meghalaya,East Khasi Hills district,25.3682,91.7539
+754,Meghalaya,East Khasi Hills district,25.3682,91.7539
+755,Meghalaya,East Khasi Hills district,25.3682,91.7539
+756,Meghalaya,East Khasi Hills district,25.3682,91.7539
+757,Meghalaya,East Khasi Hills district,25.3682,91.7539
+758,Meghalaya,East Khasi Hills district,25.3682,91.7539
+759,Meghalaya,East Khasi Hills district,25.3682,91.7539
+760,Meghalaya,East Khasi Hills district,25.3682,91.7539
+761,Meghalaya,East Khasi Hills district,25.3682,91.7539
+762,Meghalaya,East Khasi Hills district,25.3682,91.7539
+763,Meghalaya,East Khasi Hills district,25.3682,91.7539
+764,Meghalaya,East Khasi Hills district,25.3682,91.7539
+765,Meghalaya,East Khasi Hills district,25.3682,91.7539
+766,Meghalaya,East Khasi Hills district,25.3682,91.7539
+767,Meghalaya,East Khasi Hills district,25.3682,91.7539
+768,Meghalaya,East Khasi Hills district,25.3682,91.7539
+769,Meghalaya,West Khasi Hills district,25.5625,91.2891
+770,Meghalaya,West Khasi Hills district,25.5625,91.2891
+771,Meghalaya,West Khasi Hills district,25.5625,91.2891
+772,Meghalaya,West Khasi Hills district,25.5625,91.2891
+774,Mizoram,Aizawl district,23.8789,92.8976
+777,Tripura,South tripura,23.2317,91.5596
+778,Tripura,South tripura,23.2317,91.5596
+779,Tripura,West Tripura,23.8997,91.4048
+781,Gujarat,Mehsana,23.6009,72.3898
+782,Gujarat,Patan,23.8300,72.1200
+784,Gujarat,Patan,23.8300,72.1200
+786,Gujarat,Patan,23.8300,72.1200
+788,Gujarat,Navsari,20.9491,72.9136
+790,Gujarat,Navsari,20.9491,72.9136
+793,Gujarat,Navsari,20.9491,72.9136
+796,Goa,South Goa,15.1177,74.124
+797,Goa,South Goa,15.1177,74.124
+798,Goa,South Goa,15.1177,74.124
+799,Goa,South Goa,15.1177,74.124
+800,Goa,South Goa,15.1177,74.124
+801,Goa,South Goa,15.1177,74.124
+802,Goa,South Goa,15.1177,74.124
+803,Goa,South Goa,15.1177,74.124
+804,Goa,South Goa,15.1177,74.124
+805,Goa,South Goa,15.1177,74.124
+806,Goa,South Goa,15.1177,74.124
+807,Goa,South Goa,15.1177,74.124
+808,Goa,South Goa,15.1177,74.124
+809,Goa,South Goa,15.1177,74.124
+810,Goa,South Goa,15.1177,74.124
+811,Goa,South Goa,15.1177,74.124
+812,Goa,South Goa,15.1177,74.124
+813,Goa,South Goa,15.1177,74.124
+814,Goa,South Goa,15.1177,74.124
+815,Goa,South Goa,15.1177,74.124
+816,Goa,South Goa,15.1177,74.124
+817,Goa,South Goa,15.1177,74.124
+818,Goa,South Goa,15.1177,74.124
+819,Goa,South Goa,15.1177,74.124
+820,Goa,South Goa,15.1177,74.124
+821,Goa,South Goa,15.1177,74.124
+822,Goa,South Goa,15.1177,74.124
+823,Goa,South Goa,15.1177,74.124
+824,Maharashtra,Raigad Fort,18.2350,73.4478
+825,Maharashtra,Thane,19.4305,72.9656
+826,Maharashtra,Thane,19.4305,72.9656
+827,Maharashtra,Thane,19.4305,72.9656
+828,Maharashtra,Ratnagiri,16.9800,73.3000
+829,Maharashtra,Dhule district,21.0577,74.6869
+830,Maharashtra,Raigad Fort,18.2350,73.4478
+831,Maharashtra,Ratnagiri,16.9800,73.3000
+832,Maharashtra,Raigad Fort,18.2350,73.4478
+833,Maharashtra,Raigad Fort,18.2350,73.4478
+834,Maharashtra,Ratnagiri,16.9800,73.3000
+835,Maharashtra,Ratnagiri,16.9800,73.3000
+836,Maharashtra,Raigad Fort,18.2350,73.4478
+837,Maharashtra,Raigad Fort,18.2350,73.4478
+838,Maharashtra,Raigad Fort,18.2350,73.4478
+839,Maharashtra,Raigad Fort,18.2350,73.4478
+840,Maharashtra,Raigad Fort,18.2350,73.4478
+841,Maharashtra,Raigad Fort,18.2350,73.4478
+842,Maharashtra,Raigad Fort,18.2350,73.4478
+843,Maharashtra,Pune district,18.6833,74.03
+844,Maharashtra,Raigad Fort,18.2350,73.4478
+845,Maharashtra,Raigad Fort,18.2350,73.4478
+846,Maharashtra,Raigad Fort,18.2350,73.4478
+847,Maharashtra,Raigad Fort,18.2350,73.4478
+848,Maharashtra,Thane,19.4305,72.9656
+849,Maharashtra,Thane,19.4305,72.9656
+850,Maharashtra,Thane,19.4305,72.9656
+851,Maharashtra,Thane,19.4305,72.9656
+852,Maharashtra,Thane,19.4305,72.9656
+853,Maharashtra,Thane,19.4305,72.9656
+854,Maharashtra,Thane,19.4305,72.9656
+855,Maharashtra,Ratnagiri,16.9800,73.3000
+856,Maharashtra,Ratnagiri,16.9800,73.3000
+857,Maharashtra,Ratnagiri,16.9800,73.3000
+858,Kerala,Pathanamthitta,9.2656,76.7853
+859,Kerala,Pathanamthitta,9.2656,76.7853
+860,Kerala,Pathanamthitta,9.2656,76.7853
+861,Kerala,Pathanamthitta,9.2656,76.7853
+862,Kerala,Kannur,11.8608,75.4140
+863,Kerala,Kannur,11.8608,75.4140
+864,Kerala,Pathanamthitta,9.2656,76.7853
+865,Kerala,Pathanamthitta,9.2656,76.7853
+866,Kerala,Pathanamthitta,9.2656,76.7853
+867,Kerala,Thrissur,10.5200,76.2100
+868,Kerala,Thrissur,10.5200,76.2100
+869,Kerala,Thrissur,10.5200,76.2100
+870,Kerala,Thrissur,10.5200,76.2100
+871,Kerala,Kasaragod,12.4997,74.9870
+872,Kerala,Ernakulam,10.0705,76.6840
+873,Kerala,Ernakulam,10.0705,76.6840
+874,Kerala,Kollam,8.8800,76.6000
+875,Kerala,Kollam,8.8800,76.6000
+876,Kerala,Kozhikode,11.2591,75.7820
+877,Kerala,Kozhikode,11.2591,75.7820
+878,Kerala,Kasaragod,12.4997,74.9870
+879,Kerala,Kasaragod,12.4997,74.9870
+880,Kerala,Kollam,8.8800,76.6000
+881,Kerala,Kozhikode,11.2591,75.7820
+882,Kerala,Kozhikode,11.2591,75.7820
+883,Kerala,Wayanad,11.6854,76.132
+884,Kerala,Kasaragod,12.4997,74.9870
+885,Kerala,Thiruvananthapuram,8.4875,76.9525
+886,Kerala,Thiruvananthapuram,8.4875,76.9525
+887,Kerala,Thrissur,10.5200,76.2100
+888,Kerala,Palakkad,10.7925,76.5553
+889,Kerala,Kannur,11.8608,75.4140
+890,Kerala,Palakkad,10.7925,76.5553
+891,Kerala,Kannur,11.8608,75.4140
+892,Kerala,Kannur,11.8608,75.4140
+893,Kerala,Kozhikode,11.2591,75.7820
+894,Kerala,Kozhikode,11.2591,75.7820
+895,Kerala,Thiruvananthapuram,8.4875,76.9525
+896,Kerala,Kottayam,9.5800,76.5200
+897,Kerala,Kottayam,9.5800,76.5200
+898,Kerala,Wayanad,11.6854,76.132
+899,Kerala,Kasaragod,12.4997,74.9870
+900,Kerala,Kottayam,9.5800,76.5200
+901,Kerala,Kasaragod,12.4997,74.9870
+902,Kerala,Kasaragod,12.4997,74.9870
+903,Kerala,Kasaragod,12.4997,74.9870
+904,Kerala,Kasaragod,12.4997,74.9870
+905,Kerala,Thiruvananthapuram,8.4875,76.9525
+906,Kerala,Thiruvananthapuram,8.4875,76.9525
+907,Kerala,Pathanamthitta,9.2656,76.7853
+908,Kerala,Alappuzha,9.4900,76.3300
+909,Kerala,Alappuzha,9.4900,76.3300
+910,Kerala,Alappuzha,9.4900,76.3300
+911,Kerala,Idukki,9.8500,76.9700
+912,Kerala,Idukki,9.8500,76.9700
+913,Kerala,Idukki,9.8500,76.9700
+914,Kerala,Idukki,9.8500,76.9700
+915,Kerala,Idukki,9.8500,76.9700
+916,Kerala,Idukki,9.8500,76.9700
+917,Kerala,Idukki,9.8500,76.9700
+918,Kerala,Idukki,9.8500,76.9700
+919,Kerala,Kannur,11.8608,75.4140
+920,Kerala,Thrissur,10.5200,76.2100
+921,Kerala,Thrissur,10.5200,76.2100
+922,Kerala,Thrissur,10.5200,76.2100
+923,Kerala,Kasaragod,12.4997,74.9870
+924,Kerala,Kannur,11.8608,75.4140
+925,Kerala,Kannur,11.8608,75.4140
+926,Kerala,Kasaragod,12.4997,74.9870
+927,Kerala,Kannur,11.8608,75.4140
+928,Kerala,Kannur,11.8608,75.4140
+929,Andhra Pradesh,Vizianagaram,18.1200,83.4200
+930,Andhra Pradesh,Vizianagaram,18.1200,83.4200
+931,Andhra Pradesh,Khammam,17.2500,80.1500
+932,Andhra Pradesh,Khammam,17.2500,80.1500
+933,Karnataka,Uttara Kannada,14.6000,74.7000
+934,Karnataka,Uttara Kannada,14.6000,74.7000
+935,Karnataka,Dakshina Kannada,12.8438,75.2479
+936,Karnataka,Dakshina Kannada,12.8438,75.2479
+937,Odisha,Balasore,21.4916,86.9150
+938,Odisha,Balasore,21.4916,86.9150
+939,Odisha,Koraput,18.8132,82.7126
+940,Odisha,Rayagada,19.1754,83.4109
+941,Odisha,Rayagada,19.1754,83.4109
+942,Odisha,Rayagada,19.1754,83.4109
+943,Odisha,Ganjam,19.3800,85.0700
+944,Odisha,Ganjam,19.3800,85.0700
+945,Odisha,Rayagada,19.1754,83.4109
+946,Odisha,Rayagada,19.1754,83.4109
+952,Tamil Nadu,Tirupattur,12.5000,78.6000
+953,Tamil Nadu,Tirunelveli,8.7288,77.7046
+954,Tamil Nadu,Tirunelveli,8.7288,77.7046
+955,Tamil Nadu,Tirunelveli,8.7288,77.7046
+956,Tamil Nadu,Thoothukudi,8.8100,78.1400
+957,Tamil Nadu,Tirunelveli,8.7288,77.7046
+958,Tamil Nadu,Tirunelveli,8.7288,77.7046
+959,Tamil Nadu,Thoothukudi,8.8100,78.1400
+960,Tamil Nadu,Thoothukudi,8.8100,78.1400
+961,Tamil Nadu,Kallakurichi,11.7389,78.9739
+962,Tamil Nadu,Tirunelveli,8.7288,77.7046
+963,Tamil Nadu,Tirunelveli,8.7288,77.7046
+964,Tamil Nadu,Tirunelveli,8.7288,77.7046
+965,Tamil Nadu,Salem,11.6521,78.1580
+966,Punjab,Mansa district,29.9833,75.3833
+967,Punjab,Mansa district,29.9833,75.3833
+968,Punjab,Mohali district,30.6900,76.7200
+969,Punjab,Mansa district,29.9833,75.3833
+970,Punjab,Mohali district,30.6900,76.7200
+971,Punjab,Ludhiana,30.9008,75.7721
+972,Punjab,Ludhiana,30.9008,75.7721
+973,Punjab,Mansa district,29.9833,75.3833
+974,Punjab,Mansa district,29.9833,75.3833
+975,Punjab,Sangrur,30.2506,75.8442
+976,Punjab,Mansa district,29.9833,75.3833
+977,Punjab,Mansa district,29.9833,75.3833
+982,Rajasthan,Jaipur,26.9210,75.7944
+983,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+984,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+985,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+986,Himachal Pradesh,Solan district,30.9084,77.0999
+987,Rajasthan,Sirohi,24.8848,72.8535
+988,Rajasthan,Sirohi,24.8848,72.8535
+989,Rajasthan,Pali,25.7898,73.3278
+990,Rajasthan,Hanumangarh,29.6109,74.2951
+991,Rajasthan,Pali,25.7898,73.3278
+992,Madhya Pradesh,Jabalpur,23.1657,79.9324
+993,Meghalaya,South Garo Hills district,25.3301,90.5636
+994,Meghalaya,South Garo Hills district,25.3301,90.5636
+995,Meghalaya,East Garo Hills district,25.5672,90.5258
+996,Meghalaya,East Jainta hills,25.3101,92.5
+997,Meghalaya,East Jainta hills,25.3101,92.5
+998,Meghalaya,West Khasi Hills district,25.5625,91.2891
+999,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1000,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1001,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1002,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1003,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1004,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1005,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1006,Meghalaya,East Garo Hills district,25.5672,90.5258
+1007,Meghalaya,East Garo Hills district,25.5672,90.5258
+1008,Meghalaya,East Jainta hills,25.3101,92.5
+1009,Meghalaya,East Jainta hills,25.3101,92.5
+1010,Meghalaya,East Jainta hills,25.3101,92.5
+1011,Meghalaya,East Jainta hills,25.3101,92.5
+1012,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1013,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1014,Meghalaya,East Jainta hills,25.3101,92.5
+1015,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1016,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1017,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1018,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1019,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1020,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1021,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1022,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1023,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1024,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1025,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1026,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1027,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1028,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1029,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1030,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1031,Meghalaya,South Garo Hills district,25.3301,90.5636
+1032,Meghalaya,South Garo Hills district,25.3301,90.5636
+1037,Tripura,South tripura,23.2317,91.5596
+1038,Tripura,South tripura,23.2317,91.5596
+1039,Tripura,West Tripura,23.8997,91.4048
+1041,Gujarat,Palanpur,24.1712,72.4319
+1042,Gujarat,Palanpur,24.1712,72.4319
+1043,Gujarat,Surat,21.1762,72.8295
+1044,Gujarat,Surat,21.1762,72.8295
+1045,Gujarat,Jamnagar,22.4700,70.0700
+1047,Goa,South Goa,15.1177,74.124
+1048,Goa,South Goa,15.1177,74.124
+1049,Goa,South Goa,15.1177,74.124
+1050,Goa,South Goa,15.1177,74.124
+1051,Goa,South Goa,15.1177,74.124
+1052,Goa,South Goa,15.1177,74.124
+1053,Goa,South Goa,15.1177,74.124
+1054,Goa,South Goa,15.1177,74.124
+1055,Goa,South Goa,15.1177,74.124
+1056,Goa,South Goa,15.1177,74.124
+1057,Goa,South Goa,15.1177,74.124
+1058,Goa,South Goa,15.1177,74.124
+1059,Goa,South Goa,15.1177,74.124
+1060,Goa,South Goa,15.1177,74.124
+1061,Goa,South Goa,15.1177,74.124
+1062,Goa,South Goa,15.1177,74.124
+1063,Goa,South Goa,15.1177,74.124
+1064,Goa,South Goa,15.1177,74.124
+1065,Goa,South Goa,15.1177,74.124
+1066,Goa,South Goa,15.1177,74.124
+1067,Goa,South Goa,15.1177,74.124
+1068,Goa,South Goa,15.1177,74.124
+1069,Goa,South Goa,15.1177,74.124
+1070,Goa,South Goa,15.1177,74.124
+1071,Goa,South Goa,15.1177,74.124
+1072,Goa,South Goa,15.1177,74.124
+1073,Goa,South Goa,15.1177,74.124
+1074,Maharashtra,Raigad Fort,18.2350,73.4478
+1075,Maharashtra,Thane,19.4305,72.9656
+1076,Maharashtra,Thane,19.4305,72.9656
+1077,Maharashtra,Thane,19.4305,72.9656
+1078,Maharashtra,Ratnagiri,16.9800,73.3000
+1079,Maharashtra,Dhule district,21.0577,74.6869
+1080,Maharashtra,Raigad Fort,18.2350,73.4478
+1081,Maharashtra,Ratnagiri,16.9800,73.3000
+1082,Maharashtra,Raigad Fort,18.2350,73.4478
+1083,Maharashtra,Raigad Fort,18.2350,73.4478
+1084,Maharashtra,Ratnagiri,16.9800,73.3000
+1085,Maharashtra,Ratnagiri,16.9800,73.3000
+1086,Maharashtra,Raigad Fort,18.2350,73.4478
+1087,Maharashtra,Raigad Fort,18.2350,73.4478
+1088,Maharashtra,Raigad Fort,18.2350,73.4478
+1089,Maharashtra,Raigad Fort,18.2350,73.4478
+1090,Maharashtra,Raigad Fort,18.2350,73.4478
+1091,Maharashtra,Raigad Fort,18.2350,73.4478
+1092,Maharashtra,Raigad Fort,18.2350,73.4478
+1093,Maharashtra,Thane,19.4305,72.9656
+1094,Maharashtra,Pune district,18.6833,74.03
+1095,Maharashtra,Raigad Fort,18.2350,73.4478
+1096,Maharashtra,Raigad Fort,18.2350,73.4478
+1097,Maharashtra,Raigad Fort,18.2350,73.4478
+1098,Maharashtra,Raigad Fort,18.2350,73.4478
+1099,Maharashtra,Thane,19.4305,72.9656
+1100,Maharashtra,Thane,19.4305,72.9656
+1101,Maharashtra,Thane,19.4305,72.9656
+1102,Maharashtra,Thane,19.4305,72.9656
+1103,Maharashtra,Thane,19.4305,72.9656
+1104,Maharashtra,Thane,19.4305,72.9656
+1105,Maharashtra,Thane,19.4305,72.9656
+1106,Maharashtra,Thane,19.4305,72.9656
+1107,Maharashtra,Thane,19.4305,72.9656
+1108,Maharashtra,Ratnagiri,17.2478,73.3709
+1109,Maharashtra,Ratnagiri,17.2478,73.3709
+1110,Kerala,Kollam,8.8800,76.6000
+1111,Kerala,Kollam,8.8800,76.6000
+1112,Kerala,Kollam,8.8800,76.6000
+1113,Kerala,Kollam,8.8800,76.6000
+1114,Kerala,Kannur,11.8608,75.4140
+1115,Kerala,Kannur,11.8608,75.4140
+1116,Kerala,Pathanamthitta,9.2656,76.7853
+1117,Kerala,Malappuram,11.0410,76.0830
+1118,Kerala,Malappuram,11.0410,76.0830
+1119,Kerala,Thrissur,10.5200,76.2100
+1120,Kerala,Malappuram,11.0410,76.0830
+1121,Kerala,Malappuram,11.0410,76.0830
+1122,Kerala,Malappuram,11.0410,76.0830
+1123,Kerala,Kasaragod,12.4997,74.9870
+1124,Kerala,Kasaragod,12.4997,74.9870
+1125,Kerala,Kasaragod,12.4997,74.9870
+1126,Kerala,Kollam,8.8800,76.6000
+1127,Kerala,Kollam,8.8800,76.6000
+1128,Kerala,Kozhikode,11.2591,75.7820
+1129,Kerala,Kozhikode,11.2591,75.7820
+1130,Kerala,Kasaragod,12.4997,74.9870
+1131,Kerala,Kasaragod,12.4997,74.9870
+1132,Kerala,Kollam,8.8800,76.6000
+1133,Kerala,Kozhikode,11.2591,75.7820
+1134,Kerala,Palakkad,10.7925,76.5553
+1135,Kerala,Wayanand,11.6854,76.132
+1136,Kerala,Kasaragod,12.4997,74.9870
+1137,Kerala,Thiruvananthapuram,8.4875,76.9525
+1138,Kerala,Thiruvananthapuram,8.4875,76.9525
+1139,Kerala,Thiruvananthapuram,8.4875,76.9525
+1140,Kerala,Palakkad,10.7925,76.5553
+1141,Kerala,Thrissur,10.5200,76.2100
+1142,Kerala,Thrissur,10.5200,76.2100
+1143,Kerala,Kannur,11.8608,75.4140
+1144,Kerala,Kannur,11.8608,75.4140
+1145,Kerala,Kozhikode,11.2591,75.7820
+1146,Kerala,Thiruvananthapuram,8.4875,76.9525
+1147,Kerala,Thiruvananthapuram,8.4875,76.9525
+1148,Kerala,Kottayam,9.5800,76.5200
+1149,Kerala,Kottayam,9.5800,76.5200
+1150,Kerala,Kottayam,9.5800,76.5200
+1151,Kerala,Wayanand,11.6854,76.132
+1152,Kerala,Wayanand,11.6854,76.132
+1153,Kerala,Kasaragod,12.4997,74.9870
+1154,Kerala,Kasaragod,12.4997,74.9870
+1155,Kerala,Kasaragod,12.4997,74.9870
+1156,Kerala,Kasaragod,12.4997,74.9870
+1157,Kerala,Thiruvananthapuram,8.4875,76.9525
+1158,Kerala,Thiruvananthapuram,8.4875,76.9525
+1159,Kerala,Pathanamthitta,9.2656,76.7853
+1160,Kerala,Alappuzha,9.4900,76.3300
+1161,Kerala,Alappuzha,9.4900,76.3300
+1162,Kerala,Idukki,9.8500,76.9700
+1163,Kerala,Idukki,9.8500,76.9700
+1164,Kerala,Idukki,9.8500,76.9700
+1165,Kerala,Idukki,9.8500,76.9700
+1166,Kerala,Idukki,9.8500,76.9700
+1167,Kerala,Idukki,9.8500,76.9700
+1168,Kerala,Idukki,9.8500,76.9700
+1169,Kerala,Idukki,9.8500,76.9700
+1170,Kerala,Idukki,9.8500,76.9700
+1171,Kerala,Kannur,11.8608,75.4140
+1172,Kerala,Thrissur,10.5200,76.2100
+1173,Kerala,Thrissur,10.5200,76.2100
+1174,Kerala,Kottayam,9.5800,76.5200
+1175,Kerala,Kottayam,9.5800,76.5200
+1176,Kerala,Kannur,11.8608,75.4140
+1177,Kerala,Kannur,11.8608,75.4140
+1178,Kerala,Kasaragod,12.4997,74.9870
+1179,Kerala,Kasaragod,12.4997,74.9870
+1180,Kerala,Kasaragod,12.4997,74.9870
+1181,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+1182,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+1183,Andhra Pradesh,Khammam,17.2500,80.1500
+1184,Andhra Pradesh,Khammam,17.2500,80.1500
+1185,Karnataka,Uttara Kannada,14.6000,74.7000
+1186,Karnataka,Uttara Kannada,14.6000,74.7000
+1189,Odisha,Balasore,21.4916,86.9150
+1190,Odisha,Balasore,21.4916,86.9150
+1191,Odisha,Rayagada,19.1754,83.4109
+1192,Odisha,Rayagada,19.1754,83.4109
+1193,Odisha,Rayagada,19.1754,83.4109
+1194,Odisha,Rayagada,19.1754,83.4109
+1195,Odisha,Ganjam,19.3800,85.0700
+1196,Odisha,Ganjam,19.3800,85.0700
+1197,Odisha,Muniguda,19.6300,83.4900
+1198,Odisha,Rayagada,19.1754,83.4109
+1204,Tamil Nadu,Tirupattur,12.5000,78.6000
+1205,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1206,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1207,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1208,Tamil Nadu,Thoothukudi,8.8100,78.1400
+1209,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1210,Tamil Nadu,Thoothukudi,8.8100,78.1400
+1211,Tamil Nadu,Thoothukudi,8.8100,78.1400
+1212,Tamil Nadu,Thoothukudi,8.8100,78.1400
+1213,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1214,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1215,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1216,Tamil Nadu,Tirunelveli,8.7288,77.7046
+1217,Tamil Nadu,Salem,11.6521,78.1580
+1219,Punjab,Mansa district,29.9833,75.3833
+1220,Punjab,Mansa district,29.9833,75.3833
+1221,Punjab,Mohali district,30.6900,76.7200
+1222,Punjab,Mansa district,29.9833,75.3833
+1223,Punjab,Mohali district,30.6900,76.7200
+1224,Punjab,Ludhiana,30.9008,75.7721
+1225,Punjab,Ludhiana,30.9008,75.7721
+1226,Punjab,Mansa district,29.9833,75.3833
+1227,Punjab,Mansa district,29.9833,75.3833
+1228,Punjab,Sangrur,30.2506,75.8442
+1229,Punjab,Mansa district,29.9833,75.3833
+1230,Punjab,Mansa district,29.9833,75.3833
+1234,Rajasthan,Hanumangarh,29.6109,74.2951
+1235,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+1236,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+1237,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+1239,Himachal Pradesh,Solan district,30.5628,77.4702
+1240,Rajasthan,Hanumangarh,29.6109,74.2951
+1241,Rajasthan,Sirohi,24.8848,72.8535
+1242,Rajasthan,Pali,25.7898,73.3278
+1243,Rajasthan,Pali,25.7898,73.3278
+1285,Meghalaya,South Garo Hills district,25.3301,90.5636
+1286,Meghalaya,South Garo Hills district,25.3301,90.5636
+1287,Meghalaya,East Garo Hills district,25.5672,90.5258
+1288,Meghalaya,East Garo Hills district,25.5672,90.5258
+1289,Meghalaya,East Jainta hills,25.3101,92.5
+1290,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1291,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1292,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1293,Meghalaya,East Garo Hills district,25.5672,90.5258
+1294,Meghalaya,East Garo Hills district,25.5672,90.5258
+1295,Meghalaya,East Garo Hills district,25.5672,90.5258
+1296,Meghalaya,East Garo Hills district,25.5672,90.5258
+1297,Meghalaya,East Jainta hills,25.3101,92.5
+1298,Meghalaya,East Jainta hills,25.3101,92.5
+1299,Meghalaya,East Jainta hills,25.3101,92.5
+1300,Meghalaya,East Jainta hills,25.3101,92.5
+1301,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1302,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1303,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1304,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1305,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1306,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1307,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1308,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1309,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1310,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1311,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1312,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1313,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1314,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1315,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1316,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1317,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1318,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1319,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1320,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1321,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1322,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1323,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1324,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1325,Mizoram,Aizawl district,23.8789,92.8976
+1326,Mizoram,Aizawl district,23.8789,92.8976
+1327,Mizoram,Lunglei district,22.8831,92.6984
+1328,Mizoram,Lunglei district,22.8831,92.6984
+1330,Tripura,South tripura,23.2317,91.5596
+1331,Tripura,West Tripura,23.8997,91.4048
+1334,Daman and Diu,Daman and Diu,20.3974,72.8328
+1341,Gujarat,Patan,23.8300,72.1200
+1342,Gujarat,Patan,23.8300,72.1200
+1343,Gujarat,Kheda,22.7485,72.6706
+1344,Gujarat,Surat,21.1762,72.8295
+1345,Gujarat,Navsari,20.9491,72.9136
+1346,Gujarat,Palanpur,24.1712,72.4319
+1347,Gujarat,Navsari,20.9491,72.9136
+1348,Gujarat,Valsad,20.6300,72.9300
+1349,Gujarat,Valsad,20.6300,72.9300
+1350,Gujarat,Navsari,20.9491,72.9136
+1352,Goa,South Goa,15.1177,74.124
+1353,Goa,South Goa,15.1177,74.124
+1354,Goa,South Goa,15.1177,74.124
+1355,Goa,South Goa,15.1177,74.124
+1356,Goa,South Goa,15.1177,74.124
+1357,Goa,South Goa,15.1177,74.124
+1358,Goa,South Goa,15.1177,74.124
+1359,Goa,South Goa,15.1177,74.124
+1360,Goa,South Goa,15.1177,74.124
+1361,Goa,South Goa,15.1177,74.124
+1362,Goa,South Goa,15.1177,74.124
+1363,Goa,South Goa,15.1177,74.124
+1364,Goa,South Goa,15.1177,74.124
+1365,Goa,South Goa,15.1177,74.124
+1366,Goa,South Goa,15.1177,74.124
+1367,Goa,South Goa,15.1177,74.124
+1368,Goa,South Goa,15.1177,74.124
+1369,Maharashtra,Raigad Fort,18.2350,73.4478
+1371,Maharashtra,Thane,19.4305,72.9656
+1372,Maharashtra,Thane,19.4305,72.9656
+1373,Maharashtra,Ratnagiri,16.9800,73.3000
+1374,Maharashtra,Dhule district,21.0577,74.6869
+1375,Maharashtra,Raigad Fort,18.2350,73.4478
+1376,Maharashtra,Ratnagiri,16.9800,73.3000
+1377,Maharashtra,Raigad Fort,18.2350,73.4478
+1378,Maharashtra,Raigad Fort,18.2350,73.4478
+1379,Maharashtra,Raigad Fort,18.2350,73.4478
+1380,Maharashtra,Ratnagiri,16.9800,73.3000
+1381,Maharashtra,Ratnagiri,16.9800,73.3000
+1382,Maharashtra,Thane,19.4305,72.9656
+1383,Maharashtra,Raigad Fort,18.2350,73.4478
+1384,Maharashtra,Raigad Fort,18.2350,73.4478
+1385,Maharashtra,Raigad Fort,18.2350,73.4478
+1386,Maharashtra,Raigad Fort,18.2350,73.4478
+1387,Maharashtra,Raigad Fort,18.2350,73.4478
+1388,Maharashtra,Thane,19.4305,72.9656
+1389,Maharashtra,Pune district,18.6833,74.03
+1390,Maharashtra,Pune district,18.6833,74.03
+1391,Maharashtra,Pune district,18.6833,74.03
+1392,Maharashtra,Raigad Fort,18.2350,73.4478
+1393,Maharashtra,Raigad Fort,18.2350,73.4478
+1394,Maharashtra,Thane,19.4305,72.9656
+1395,Maharashtra,Thane,19.4305,72.9656
+1396,Maharashtra,Thane,19.4305,72.9656
+1397,Maharashtra,Thane,19.4305,72.9656
+1398,Maharashtra,Thane,19.4305,72.9656
+1399,Maharashtra,Thane,19.4305,72.9656
+1400,Maharashtra,Thane,19.4305,72.9656
+1401,Maharashtra,Thane,19.4305,72.9656
+1402,Maharashtra,Ratnagiri,16.9800,73.3000
+1403,Maharashtra,Ratnagiri,16.9800,73.3000
+1404,Maharashtra,Ratnagiri,16.9800,73.3000
+1405,Kerala,Kollam,8.8800,76.6000
+1406,Kerala,Kollam,8.8800,76.6000
+1407,Kerala,Kollam,8.8800,76.6000
+1408,Kerala,Kollam,8.8800,76.6000
+1409,Kerala,Pathanamthitta,9.2656,76.7853
+1410,Kerala,Malappuram,11.0410,76.0830
+1411,Kerala,Malappuram,11.0410,76.0830
+1412,Kerala,Malappuram,11.0410,76.0830
+1413,Kerala,Malappuram,11.0410,76.0830
+1414,Kerala,Malappuram,11.0410,76.0830
+1415,Kerala,Kasaragod,12.4997,74.9870
+1416,Kerala,Kasaragod,12.4997,74.9870
+1417,Kerala,Kollam,8.8800,76.6000
+1418,Kerala,Kollam,8.8800,76.6000
+1419,Kerala,Kollam,8.8800,76.6000
+1420,Kerala,Kozhikode,11.2591,75.7820
+1421,Kerala,Kozhikode,11.2591,75.7820
+1422,Kerala,Kozhikode,11.2591,75.7820
+1423,Kerala,Kozhikode,11.2591,75.7820
+1424,Kerala,Kollam,8.8800,76.6000
+1425,Kerala,Kozhikode,11.2591,75.7820
+1426,Kerala,Kollam,8.8800,76.6000
+1427,Kerala,Kollam,8.8800,76.6000
+1428,Kerala,Palakkad,10.7925,76.5553
+1429,Kerala,Palakkad,10.7925,76.5553
+1430,Kerala,Palakkad,10.7925,76.5553
+1431,Kerala,Malappuram,11.0410,76.0830
+1432,Kerala,Malappuram,11.0410,76.0830
+1433,Kerala,Malappuram,11.0410,76.0830
+1434,Kerala,Kozhikode,11.2591,75.7820
+1435,Kerala,Kozhikode,11.2591,75.7820
+1436,Kerala,Thiruvananthapuram,8.4875,76.9525
+1437,Kerala,Thiruvananthapuram,8.4875,76.9525
+1438,Kerala,Thiruvananthapuram,8.4875,76.9525
+1439,Kerala,Thiruvananthapuram,8.4875,76.9525
+1440,Kerala,Thiruvananthapuram,8.4875,76.9525
+1441,Kerala,Kasaragod,12.4997,74.9870
+1442,Kerala,Kasaragod,12.4997,74.9870
+1443,Kerala,Kasaragod,12.4997,74.9870
+1444,Kerala,Kasaragod,12.4997,74.9870
+1445,Kerala,Thiruvananthapuram,8.4875,76.9525
+1446,Kerala,Thiruvananthapuram,8.4875,76.9525
+1447,Kerala,Alappuzha,9.4900,76.3300
+1448,Kerala,Alappuzha,9.4900,76.3300
+1449,Kerala,Alappuzha,9.4900,76.3300
+1450,Kerala,Alappuzha,9.4900,76.3300
+1451,Kerala,Idukki,9.8500,76.9700
+1452,Kerala,Idukki,9.8500,76.9700
+1453,Kerala,Idukki,9.8500,76.9700
+1454,Kerala,Idukki,9.8500,76.9700
+1455,Kerala,Idukki,9.8500,76.9700
+1456,Kerala,Idukki,9.8500,76.9700
+1457,Kerala,Idukki,9.8500,76.9700
+1458,Kerala,Kannur,11.8608,75.4140
+1459,Kerala,Thrissur,10.5200,76.2100
+1460,Kerala,Thrissur,10.5200,76.2100
+1461,Kerala,Kottayam,9.5800,76.5200
+1462,Kerala,Kottayam,9.5800,76.5200
+1463,Kerala,Thiruvananthapuram,8.4875,76.9525
+1464,Kerala,Thiruvananthapuram,8.4875,76.9525
+1465,Kerala,Kasaragod,12.4997,74.9870
+1466,Kerala,Kollam,8.8800,76.6000
+1467,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+1468,Andhra Pradesh,Visakhapatnam,17.7085,83.2438
+1469,Karnataka,Uttara Kannada,14.6000,74.7000
+1470,Karnataka,Uttara Kannada,14.6000,74.7000
+1471,Karnataka,Uttara Kannada,14.6000,74.7000
+1472,Karnataka,Dakshina Kannada,12.8438,75.2479
+1473,Odisha,Balasore,21.4916,86.9150
+1474,Odisha,Balasore,21.4916,86.9150
+1475,Odisha,Koraput,18.8132,82.7126
+1476,Odisha,Rayagada,19.1754,83.4109
+1477,Odisha,Rayagada,19.1754,83.4109
+1478,Odisha,Rayagada,19.1754,83.4109
+1479,Odisha,Ganjam,19.3800,85.0700
+1480,Odisha,Ganjam,19.3800,85.0700
+1481,Odisha,Muniguda,19.6300,83.4900
+1482,Odisha,Muniguda,19.6300,83.4900
+1488,Tamil Nadu,Tirupattur,12.5000,78.6000
+1491,Punjab,Mansa district,29.9833,75.3833
+1492,Punjab,Mansa district,29.9833,75.3833
+1493,Punjab,Mohali district,30.6900,76.7200
+1494,Punjab,Mansa district,29.9833,75.3833
+1495,Punjab,Mohali district,30.6900,76.7200
+1496,Punjab,Ludhiana,30.9008,75.7721
+1497,Punjab,Ludhiana,30.9008,75.7721
+1498,Punjab,Mansa district,29.9833,75.3833
+1499,Punjab,Mansa district,29.9833,75.3833
+1500,Punjab,Sangrur,30.2506,75.8442
+1501,Punjab,Mansa district,29.9833,75.3833
+1502,Punjab,Mansa district,29.9833,75.3833
+1506,Rajasthan,Hanumangarh,29.6109,74.2951
+1507,Rajasthan,Hanumangarh,29.6109,74.2951
+1508,Himachal Pradesh,Sirmaur district,30.5628,77.4702
+1509,Himachal Pradesh,Solan district,30.5628,77.4702
+1511,Himachal Pradesh,Solan district,30.5628,77.4702
+1512,Himachal Pradesh,Solan district,30.5628,77.4702
+1513,Rajasthan,Pali,25.7898,73.3278
+1551,Meghalaya,West Khasi Hills district,25.5625,91.2891
+1552,Meghalaya,East Jainta hills,25.3101,92.5
+1553,Meghalaya,East Jainta hills,25.3101,92.5
+1554,Meghalaya,East Jainta hills,25.3101,92.5
+1555,Meghalaya,East Khasi Hills district,25.3682,91.7539
+1556,Mizoram,Aizawl district,23.8789,92.8976
+1557,Mizoram,Aizawl district,23.8789,92.8976
+1558,Mizoram,Lunglei district,22.8831,92.6984
+1559,Mizoram,Lunglei district,22.8831,92.6984
+1561,Tripura,South tripura,23.2317,91.5596
+1562,Tripura,West Tripura,23.8997,91.4048
+1563,Daman and Diu,Daman and Diu,20.7144,70.9874
+1571,Gujarat,Surat,21.1762,72.8295
+1572,Gujarat,Surat,21.1762,72.8295
+1573,Gujarat,Navsari,20.9491,72.9136
+1574,Gujarat,Navsari,20.9491,72.9136
+1575,Gujarat,Navsari,20.9491,72.9136
+1577,Gujarat,Surat,21.1762,72.8295
+1743,Mizoram,Aizawl district,23.8789,92.8976
+1749,Tripura,South tripura,23.2317,91.5596
+1750,Tripura,West Tripura,23.8997,91.4048
