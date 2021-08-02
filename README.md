@@ -38,14 +38,5 @@ https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6T
 We created a preliminary blueprint for our Dashboard, this can be found in the last four pages of the Google slides. We plan to use Tableau public to create our storyboard & add interactive maps.
 https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit?usp=sharing
 
-## Communications protocols:
-
-We used different tools to communicate the requiremnets & results across the team:
-
-1. A shared Slack Channel
-2. A shared Github repository where each member has a branch to add their work
-3. During class, we communicate in our breakout room
-4. A separate zoom meeting we join on Sunday to finalize before submission
-5. We shared access to the Google slides, where we can all add/edit the presentation portion of the work.
 
 
