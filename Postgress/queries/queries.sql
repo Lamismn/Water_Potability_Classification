@@ -7,9 +7,12 @@ GROUP BY region
 ORDER BY COUNT(station_code) DESC;
 
 --total water data
+--ar is used instead of a due to a being a special character in SQL
 SELECT wd.station_code,
-wd.areas,
-wd.region,
+ar.areas,
+ar.region,
+ar.lat,
+ar.lng,
 wd.tempurature,
 wd.dis_oxy,
 wd.ph,
@@ -22,6 +25,8 @@ gr.grade,
 pot.potable
 INTO total_water_data
 FROM water_data AS wd
+INNER JOIN area AS ar
+ON (wd.station_code=ar.station_code)
 INNER JOIN grade AS gr
 ON (wd.station_code=gr.station_code)
 INNER JOIN potability AS pot
