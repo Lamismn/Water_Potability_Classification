@@ -31,6 +31,8 @@ CREATE TABLE area (
 	station_code INT NOT NULL,
 	areas VARCHAR(200) NOT NULL,
 	region VARCHAR(40) NOT NULL,
+	lat FLOAT NOT NULL,
+	lng FLOAT NOT NULL,
 	FOREIGN KEY(station_code) REFERENCES water_data(station_code),
 	PRIMARY KEY(station_code)
 );
