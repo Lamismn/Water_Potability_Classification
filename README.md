@@ -60,5 +60,5 @@ https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6T
 
 ### Dashboard
 
-We created a preliminary blueprint for our Dashboard, this can be found in the last four pages of the Google slides. We plan to use Tableau public to create our storyboard & add interactive maps.
+We created our initial Dashboard, Weused Tableau public to create our storyboard & add interactive maps & charts. The link to our Dahsboard is as foloows:
 https://public.tableau.com/app/profile/lamis3656/viz/WaterPotablitydahsboard/WaterpotabilityinIndia?publish=yes
