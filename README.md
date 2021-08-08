@@ -31,6 +31,8 @@ Taken from PostgreSQL, a query was done to get a table with a classification for
 
 ![alt_text](https://github.com/Lamismn/Water_Potability_Classification/blob/main/Analysis/Images/water_potability_pie.png?raw=true)
 
+A small note here: This displays a 55.9% to 44.1%, potable to not potable water distribution. Although over 50% of the water is potable, when looking at what this actually means, we find a very disparing fact. 44.1% of all water in india is undrinkable. Taking into consideration that as of 2019, India's population is 1.366 billion, this means that an estimated 602 million people are without reliable access to safe, clean, drinking water.
+
 Afterwards, logistic regression is applied. Once the model made predictions, its accuracy is listed at 84.7%, which is fairly accurate. The confusion matrix also shows the model is capable of predicting potability:
 
 ![alt_text](https://github.com/Lamismn/Water_Potability_Classification/blob/main/Analysis/Images/logistic_regression_confusion_matrix.PNG?raw=true)
@@ -48,6 +50,8 @@ The table used, taken from PostgreSQL, was similar to the one used in the above 
 The image below shows a distribution of each water grade:
 
 ![alt_text](https://github.com/Lamismn/Water_Potability_Classification/blob/main/Analysis/Images/water_grade_pie.png?raw=true)
+
+A small note here: Taking a step back to look at the whole picture, this breakdown defines the classes of water contained within India, and how much of all water within the country is of each grade. 6.3% of the water is A grade, safe to drink without filtering. This point is important, due to India's historic poverty within some regions. Applying this 6.3% to India's population as we did before, this results in an estimated 86 million people having access to clean, potable water, reliably. 86 million out of 1.366 billion is quite the discrepancy, showing a true light on their situation.
 
 Next, the DataFrame was sorted by grade, and then the Principal Component Analysis was implemented. 11 principal components were needed, as the total variance would be at least 0.95. A clustered DataFrame was created. Since K-Means only identifies clusters and has nothing to do with labelling said clusters, some modifications were made. First, a check to see if all values in each class also belong to the same grade in their respective class. Once that was the case, a pseudo-confusion matrix was created, mainly showing that the model was able to classify each cluster, as shown below:
 
