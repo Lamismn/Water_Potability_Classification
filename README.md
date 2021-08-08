@@ -14,6 +14,9 @@ The data used for this study is collected from different sources:
 ### Data Preprocessing & Cleaning
 
 The public datasets used in this study contain the metrics of the sampled water from different stations. To be able to train and test the machine learning models, we used the classifications to create additional tables showing the water class & the potability of each sample. Classification was based on metrics in the link above. If a station's water quality is graded as A, B, or C, that station's water is potable; otherwise, it is not potable. This was achieved using Pandas & Python. The datasets also contained a lot of null values, duplicated stations, and numeric values saved as strings. Data cleaning was also done in Pandas.
+The datasets also were not accurate when it came to station locations, Latitudes & longitudes of the stations were missing, and the districts & states had a lot of spelling mistakes. To be able to fix that & make sure our data is accurate, we referred to some websites (governmental & private) showing the state & district distribution in India & used Google maps to find the coordinates. The links to those websites are as follows:
+https://indiawris.gov.in/wris/#/RiverMonitoring
+http://districts.nic.in/
 
 ### Database Creation & Adjustment
 
@@ -57,12 +60,36 @@ Next, the DataFrame was sorted by grade, and then the Principal Component Analys
 
 ![alt_text](https://github.com/Lamismn/Water_Potability_Classification/blob/main/Analysis/Images/k_means_confusion_matrix.PNG?raw=true)
 
+
+## Further analysis:
+
+### Future Analysis:
+
+Our study showed a lot of variation in the water metrics across India, it also confirmed the information we had regarding Water quality problems & limited access to clean water. We were able to create machine learning models that could predict the water grade & potability based on the metrics of any sample, and they had a relatively good accuracy. If we had more time though, we would have extended our research in different ways:
+
+1. Include coordinates in the Machine learning model, and see if we can create a model that could predict the grade according to coordinates, with an acceptable accuracy
+2. Indclude some of the Null & NaN values that we deopped in our pre-processing phase, by checking other data sources for their values, or predicting them according to close stations values,
+3. Get datasets for monthly water samples to check if & how the time of the year/season affects water quality
+4. Create a deep learning model to predict grade according to different metrics, including location.
+
+### Alternative approach:
+
+While conducting our study and adding the location data, we noticed that several rivers in India pass through different states, and that some states & districts haf=ve more than one river passing through them. We realized that an alternative approach to our study would be categorizing data according to rivers rather that just locations. Studying water metrics of a certain river within a specific area could give more comprehensive and accurate results than just considering the location.
+
 ## Presentation
 
 We created a Google Slides presentation showing the description of the analysis & the required we want to achieve. The link to the presentation is as follows:
 https://docs.google.com/presentation/d/1x4JIKwRCSaF6iWjVVwnCr1n2wZSMgn557UluwI6Th5Q/edit?usp=sharing
 
-### Dashboard
-
-We created our initial Dashboard, We used Tableau public to create our storyboard & add interactive maps & charts. The link to our Dahsboard is as follows:
+We also created a dashboard summarizing our findings as well as explaining the Machine learning models we created & their outputs. The dashboard also shows an inteactive map of India showing a pop-up tooltip with the state summary for each of out studied states. We also took a deeper look into the Coliform distribution across states & districts, this is shown on two interactive bubble charts. The link to our Dahsboard is as follows:
 https://public.tableau.com/app/profile/lamis3656/viz/WaterPotablitydahsboard/WaterpotabilityinIndia?publish=yes
+
+## Communication protocols:
+
+To be able to achieve the outputs we wanted, We used different tools to communicate across the team, those tools are as follows:
+
+1. A shared Slack Channel
+2. A shared Github repository where each member has a branch to add their work
+3. During class, we communicate in our breakout room (Zoom)
+4. A separate Zoom meeting we join on Sunday to finalize before submission
+5. We shared access to the Google slides, where we can all add/edit the presentation portion of the work
