@@ -70,13 +70,13 @@ Next, the DataFrame was sorted by grade, and then the Principal Component Analys
 Our study showed a lot of variation in the water metrics across India, it also confirmed the information we had regarding Water quality problems & limited access to clean water. We were able to create machine learning models that could predict the water grade & potability based on the metrics of any sample, and they had a relatively good accuracy. If we had more time though, we would have extended our research in different ways:
 
 1. Include coordinates in the Machine learning model, and see if we can create a model that could predict the grade according to coordinates, with an acceptable accuracy
-2. Indclude some of the Null & NaN values that we deopped in our pre-processing phase, by checking other data sources for their values, or predicting them according to close stations values,
+2. Indclude some of the Null & NaN values that we dropped in our pre-processing phase, by checking other data sources for their values, or predicting them according to close stations values,
 3. Get datasets for monthly water samples to check if & how the time of the year/season affects water quality
 4. Create a deep learning model to predict grade according to different metrics, including location.
 
 ### Alternative approach:
 
-While conducting our study and adding the location data, we noticed that several rivers in India pass through different states, and that some states & districts haf=ve more than one river passing through them. We realized that an alternative approach to our study would be categorizing data according to rivers rather that just locations. Studying water metrics of a certain river within a specific area could give more comprehensive and accurate results than just considering the location.
+While conducting our study and adding the location data, we noticed that several rivers in India pass through different states, and that some states & districts have more than one river passing through them. We realized that an alternative approach to our study would be categorizing data according to rivers rather that just locations. Studying water metrics of a certain river within a specific area could give more comprehensive and accurate results than just considering the location.
 
 ## Presentation
 
