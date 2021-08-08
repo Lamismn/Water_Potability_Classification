@@ -15,7 +15,9 @@ The data used for this study is collected from different sources:
 
 The public datasets used in this study contain the metrics of the sampled water from different stations. To be able to train and test the machine learning models, we used the classifications to create additional tables showing the water class & the potability of each sample. Classification was based on metrics in the link above. If a station's water quality is graded as A, B, or C, that station's water is potable; otherwise, it is not potable. This was achieved using Pandas & Python. The datasets also contained a lot of null values, duplicated stations, and numeric values saved as strings. Data cleaning was also done in Pandas.
 The datasets also were not accurate when it came to station locations, Latitudes & longitudes of the stations were missing, and the districts & states had a lot of spelling mistakes. To be able to fix that & make sure our data is accurate, we referred to some websites (governmental & private) showing the state & district distribution in India & used Google maps to find the coordinates. The links to those websites are as follows:
+
 https://indiawris.gov.in/wris/#/RiverMonitoring
+
 http://districts.nic.in/
 
 ### Database Creation & Adjustment
